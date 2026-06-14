@@ -59,6 +59,7 @@ KNOWN_FILMS = {
     "grave of the fireflies": ["grave_of_the_fireflies", "Grave of the Fireflies", "Film"],
     "ponyo": ["ponyo", "Ponyo", "Film"],
     "the wind rises": ["the_wind_rises", "The Wind Rises", "Film"],
+    "the wind has risen": ["the_wind_rises", "The Wind Rises", "Film"],
     "porco rosso": ["porco_rosso", "Porco Rosso", "Film"],
     "the boy and the heron": ["the_boy_and_the_heron", "The Boy and the Heron", "Film"],
     "the castle of cagliostro": ["the_castle_of_cagliostro", "The Castle of Cagliostro", "Film"],
@@ -121,6 +122,19 @@ def is_blacklisted(text):
     return False
 
 
+COMMON_WORDS = {
+    "film", "movie", "series", "studio", "story", "book", "manga",
+    "japan", "tokyo", "world", "year", "day", "life", "work",
+    "war", "art", "music", "animation", "anime", "television",
+    "the", "a", "an", "is", "was", "be", "of", "in", "on", "at", "to",
+    "his", "her", "its", "their", "this", "that", "it", "he", "she",
+    "first", "second", "last", "new", "old", "same", "own",
+}
+
+def is_common_word(text):
+    return text.lower().strip().rstrip("'s.,;") in COMMON_WORDS
+
+
 def slugify(text):
     return re.sub(r"[^a-z0-9]+", "_", text.lower()).strip("_")
 
@@ -160,17 +174,23 @@ def find_slug(text, canonical):
     lower = clean.lower()
     if is_blacklisted(clean):
         return None
+    if is_common_word(clean):
+        return None
     known = resolve_known(clean)
     if known:
         return known[0]
     for slug, info in canonical.items():
         cl = info["label"].lower()
+        if is_common_word(cl):
+            continue
         if lower == cl:
             return slug
-        if lower in cl or cl in lower:
+        if (len(lower) >= 4 and len(cl) >= 4) and (lower in cl or cl in lower):
             return slug
     for slug, info in canonical.items():
         cl = info["label"].lower()
+        if is_common_word(cl):
+            continue
         if fuzz.partial_ratio(lower, cl) >= 85:
             return slug
     return None
@@ -275,10 +295,15 @@ def extract_triples_by_patterns(docs, nlp, canonical):
             for token in sent:
                 if token.dep_ not in ("nsubj", "nsubjpass"):
                     continue
-                if token.i not in sent_entities:
-                    continue
 
-                subj_slug = sent_entities[token.i]
+                subj_slug = None
+                if token.i in sent_entities:
+                    subj_slug = sent_entities[token.i]
+                elif doc_slug in canonical:
+                    subj_slug = doc_slug
+
+                if not subj_slug:
+                    continue
 
                 orig_head = token.head
                 verb_heads = []

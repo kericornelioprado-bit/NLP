@@ -179,7 +179,7 @@
       "id": "the_wind_rises",
       "label": "The Wind Rises",
       "class": "Film",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "id": "toei_animation",
@@ -233,6 +233,48 @@
     },
     {
       "source": "isao_takahata",
+      "target": "castle_in_the_sky",
+      "predicate": "PRODUCED",
+      "sentence": "It was produced by Isao Takahata, animated by Studio Ghibli, and distributed by the Toei Company."
+    },
+    {
+      "source": "castle_in_the_sky",
+      "target": "kiki_s_delivery_service",
+      "predicate": "WORKED_ON",
+      "sentence": "The film stars the voices of Mayumi Tanaka, Keiko Yokozawa, Kotoe Hatsui, and Minori Terada."
+    },
+    {
+      "source": "hayao_miyazaki",
+      "target": "castle_in_the_sky",
+      "predicate": "WORKED_ON",
+      "sentence": "The film was partly inspired by Miyazaki's trips to Wales, where he witnessed the aftermath of the 1984–1985 coal miners' strike."
+    },
+    {
+      "source": "streamline_pictures",
+      "target": "castle_in_the_sky",
+      "predicate": "PRODUCED",
+      "sentence": "An English dub commissioned by Tokuma Shoten was distributed in North America by Streamline Pictures, and another dub was produced by Disney in 1998, released internationally by Buena Vista in 2003."
+    },
+    {
+      "source": "disney",
+      "target": "castle_in_the_sky",
+      "predicate": "PRODUCED",
+      "sentence": "An English dub commissioned by Tokuma Shoten was distributed in North America by Streamline Pictures, and another dub was produced by Disney in 1998, released internationally by Buena Vista in 2003."
+    },
+    {
+      "source": "joe_hisaishi",
+      "target": "castle_in_the_sky",
+      "predicate": "COMPOSED",
+      "sentence": "The film's score was composed by Joe Hisaishi, who would become a close collaborator of Miyazaki's; Hisaishi also composed a reworked soundtrack for the 2003 English dub."
+    },
+    {
+      "source": "castle_in_the_sky",
+      "target": "hayao_miyazaki",
+      "predicate": "WORKED_ON",
+      "sentence": "The film's score was composed by Joe Hisaishi, who would become a close collaborator of Miyazaki's; Hisaishi also composed a reworked soundtrack for the 2003 English dub."
+    },
+    {
+      "source": "isao_takahata",
       "target": "grave_of_the_fireflies",
       "predicate": "WROTE",
       "sentence": "Grave of the Fireflies is a 1988 Japanese animated war film written and directed by Isao Takahata."
@@ -242,6 +284,36 @@
       "target": "grave_of_the_fireflies",
       "predicate": "DIRECTED",
       "sentence": "Grave of the Fireflies is a 1988 Japanese animated war film written and directed by Isao Takahata."
+    },
+    {
+      "source": "grave_of_the_fireflies",
+      "target": "kiki_s_delivery_service",
+      "predicate": "WORKED_ON",
+      "sentence": "It stars the voices of Tsutomu Tatsumi, Ayano Shiraishi, Yoshiko Shinohara, and Akemi Yamaguchi."
+    },
+    {
+      "source": "studio_ghibli",
+      "target": "grave_of_the_fireflies",
+      "predicate": "WORKED_ON",
+      "sentence": "It was animated by Studio Ghibli, marking Takahata's first film with the studio."
+    },
+    {
+      "source": "grave_of_the_fireflies",
+      "target": "toei_animation",
+      "predicate": "RELEASED_IN",
+      "sentence": "The film was theatrically released in Japan by Toho on April 16, 1988, and was a modest success at the Japanese box office, grossing ¥1.7 billion."
+    },
+    {
+      "source": "hayao_miyazaki",
+      "target": "studio_ghibli",
+      "predicate": "WORKED_ON",
+      "sentence": "He co-founded Studio Ghibli and serves as its honorary chairman."
+    },
+    {
+      "source": "hayao_miyazaki",
+      "target": "toei_animation",
+      "predicate": "WORKED_ON",
+      "sentence": "He joined Toei Animation in 1963, working as an inbetween artist and key animator on films including Gulliver's Travels Beyond the Moon (1965), The Great Adventure of Horus, Prince of the Sun (1968), and Animal Treasure Island (1971), before moving to A-Pro in 1971, where he co-directed Lupin the Third Part I (1971–1972) alongside Isao Takahata."
     },
     {
       "source": "hayao_miyazaki",
@@ -254,6 +326,78 @@
       "target": "nippon_animation",
       "predicate": "DIRECTED",
       "sentence": "After moving to Zuiyō Eizō (later Nippon Animation) in 1973, Miyazaki worked as an animator on World Masterpiece Theater and directed the television series Future Boy Conan (1978)."
+    },
+    {
+      "source": "hayao_miyazaki",
+      "target": "tokyo_movie_shinsha",
+      "predicate": "WORKED_ON",
+      "sentence": "He joined Tokyo Movie Shinsha in 1979 to direct his first feature film, The Castle of Cagliostro (1979), and the television series Sherlock Hound (1984–1985)."
+    },
+    {
+      "source": "spirited_away",
+      "target": "japan",
+      "predicate": "WORKED_ON",
+      "sentence": "Spirited Away (2001) became Japan's highest-grossing film and won the Academy Award for Best Animated Feature; it is frequently ranked among the greatest films of the 21st century."
+    },
+    {
+      "source": "spirited_away",
+      "target": "japan",
+      "predicate": "RELATED_TO",
+      "sentence": "Spirited Away (2001) became Japan's highest-grossing film and won the Academy Award for Best Animated Feature; it is frequently ranked among the greatest films of the 21st century."
+    },
+    {
+      "source": "toshio_suzuki",
+      "target": "howl_s_moving_castle_film",
+      "predicate": "PRODUCED",
+      "sentence": "The film was produced by Toshio Suzuki, animated by Studio Ghibli, and distributed by Toho."
+    },
+    {
+      "source": "howl_s_moving_castle_film",
+      "target": "kiki_s_delivery_service",
+      "predicate": "WORKED_ON",
+      "sentence": "It stars the voices of Chieko Baisho, Takuya Kimura, and Akihiro Miwa."
+    },
+    {
+      "source": "howl_s_moving_castle_film",
+      "target": "the_united_states",
+      "predicate": "RELATED_TO",
+      "sentence": "Miyazaki stated that he \"had a great deal of rage\" about the Iraq War, which led him to make a film that he felt would be poorly received in the United States."
+    },
+    {
+      "source": "howl_s_moving_castle_film",
+      "target": "japan",
+      "predicate": "RELATED_TO",
+      "sentence": "It went on to gross $190 million in Japan and $46 million outside Japan, making it one of the most commercially successful Japanese films in history."
+    },
+    {
+      "source": "howl_s_moving_castle_film",
+      "target": "hayao_miyazaki",
+      "predicate": "RELATED_TO",
+      "sentence": "The film received critical acclaim, with particular praise for its visuals and Miyazaki's presentation of the themes."
+    },
+    {
+      "source": "isao_takahata",
+      "target": "japan",
+      "predicate": "RELATED_TO",
+      "sentence": "A co-founder of Studio Ghibli, he earned international critical acclaim for his work as a director of Japanese animated feature films."
+    },
+    {
+      "source": "isao_takahata",
+      "target": "toei_animation",
+      "predicate": "WORKED_ON",
+      "sentence": "Born in Ujiyamada, Mie Prefecture, Takahata joined Toei Animation after graduating from the University of Tokyo in 1959."
+    },
+    {
+      "source": "isao_takahata",
+      "target": "hayao_miyazaki",
+      "predicate": "RELATED_TO",
+      "sentence": "He continued his partnership with Miyazaki, and under Nippon Animation directed the television series Heidi, Girl of the Alps (1974), 3000 Leagues in Search of Mother (1976), and Anne of Green Gables (1979)"
+    },
+    {
+      "source": "isao_takahata",
+      "target": "hayao_miyazaki",
+      "predicate": "DIRECTED",
+      "sentence": "He continued his partnership with Miyazaki, and under Nippon Animation directed the television series Heidi, Girl of the Alps (1974), 3000 Leagues in Search of Mother (1976), and Anne of Green Gables (1979)"
     },
     {
       "source": "isao_takahata",
@@ -281,14 +425,32 @@
     },
     {
       "source": "kiki_s_delivery_service",
+      "target": "my_neighbor_totoro",
+      "predicate": "RELATED_TO",
+      "sentence": "Production began near the release of My Neighbor Totoro (1988)."
+    },
+    {
+      "source": "kiki_s_delivery_service",
       "target": "toei_animation",
       "predicate": "RELEASED_IN",
       "sentence": "Kiki's Delivery Service was released in Japan on July 29, 1989, by Toei."
     },
     {
+      "source": "streamline_pictures",
+      "target": "kiki_s_delivery_service",
+      "predicate": "PRODUCED",
+      "sentence": "An English dub was produced by Streamline Pictures for Japan Airlines international flights in 1989."
+    },
+    {
       "source": "disney",
       "target": "tokuma_shoten",
       "predicate": "PRODUCED",
+      "sentence": "The Walt Disney Studios produced an English dub in 1997, which became the first film under a deal between Tokuma and Disney to be released in English."
+    },
+    {
+      "source": "kiki_s_delivery_service",
+      "target": "tokuma_shoten",
+      "predicate": "WORKED_ON",
       "sentence": "The Walt Disney Studios produced an English dub in 1997, which became the first film under a deal between Tokuma and Disney to be released in English."
     },
     {
@@ -311,6 +473,12 @@
     },
     {
       "source": "my_neighbor_totoro",
+      "target": "kiki_s_delivery_service",
+      "predicate": "WORKED_ON",
+      "sentence": "It stars the voices of Noriko Hidaka, Chika Sakamoto and Hitoshi Takagi, and focuses on two young sisters who, after moving with their father to the countryside, experience interactions with friendly wood spirits in postwar Japan."
+    },
+    {
+      "source": "my_neighbor_totoro",
       "target": "studio_ghibli",
       "predicate": "WORKED_ON",
       "sentence": "Totoro also serves as the mascot for Studio Ghibli and is recognized as one of the most popular characters in Japanese animation."
@@ -328,10 +496,22 @@
       "sentence": "Nausicaä of the Valley of the Wind is a 1984 Japanese animated post-apocalyptic fantasy film written and directed by Hayao Miyazaki, based on his 1982 manga Nausicaä of the Valley of the Wind."
     },
     {
+      "source": "topcraft",
+      "target": "nausica_of_the_valley_of_the_wind_film",
+      "predicate": "PRODUCED",
+      "sentence": "It was produced by Topcraft and distributed by Toei Company."
+    },
+    {
       "source": "joe_hisaishi",
       "target": "hayao_miyazaki",
       "predicate": "COMPOSED",
       "sentence": "Joe Hisaishi, in his first collaboration with Miyazaki, composed the score."
+    },
+    {
+      "source": "nausica_of_the_valley_of_the_wind_film",
+      "target": "kiki_s_delivery_service",
+      "predicate": "WORKED_ON",
+      "sentence": "The film stars the voices of Sumi Shimamoto, Gorō Naya, Yōji Matsuda, Yoshiko Sakakibara, and Iemasa Kayumi."
     },
     {
       "source": "hayao_miyazaki",
@@ -344,6 +524,12 @@
       "target": "ponyo",
       "predicate": "DIRECTED",
       "sentence": "Ponyo is a 2008 Japanese animated fantasy film written and directed by Hayao Miyazaki."
+    },
+    {
+      "source": "studio_ghibli",
+      "target": "ponyo",
+      "predicate": "WORKED_ON",
+      "sentence": "It was animated by Studio Ghibli for the Nippon Television Network, Dentsu, Hakuhodo DY Media Partners, Buena Vista Home Entertainment, Mitsubishi, and distributed by Toho."
     },
     {
       "source": "hayao_miyazaki",
@@ -352,6 +538,18 @@
       "sentence": "It is the eighth film Miyazaki directed for Studio Ghibli, and his tenth overall."
     },
     {
+      "source": "ponyo",
+      "target": "toei_animation",
+      "predicate": "RELEASED_IN",
+      "sentence": "The film was originally released in Japan on July 19, 2008, by distributor Toho."
+    },
+    {
+      "source": "toei_animation",
+      "target": "ponyo",
+      "predicate": "PRODUCED",
+      "sentence": "An English-language version of the film was released on August 14, 2009, to 927 theatres across the U.S., the widest opening for a Studio Ghibli film in the U.S. It was produced by The Kennedy/Marshall Company and released by Walt Disney Studios Motion Pictures through their Walt Disney Pictures banner."
+    },
+    {
       "source": "hayao_miyazaki",
       "target": "princess_mononoke",
       "predicate": "WROTE",
@@ -362,6 +560,12 @@
       "target": "princess_mononoke",
       "predicate": "DIRECTED",
       "sentence": "Princess Mononoke is a 1997 Japanese animated historical fantasy film written and directed by Hayao Miyazaki."
+    },
+    {
+      "source": "princess_mononoke",
+      "target": "kiki_s_delivery_service",
+      "predicate": "WORKED_ON",
+      "sentence": "Produced by Toshio Suzuki, animated by Studio Ghibli, and distributed by Toho, it stars the voices of Yōji Matsuda, Yuriko Ishida, Yūko Tanaka, Kaoru Kobayashi, Masahiko Nishimura, Tsunehiko Kamijō, Akihiro Miwa, Mitsuko Mori, and Hisaya Morishige."
     },
     {
       "source": "hayao_miyazaki",
@@ -370,6 +574,18 @@
       "sentence": "Miyazaki began developing early concepts in 1980 and later considered basing a film on the Hōjōki (1212), a Japanese literary classic; elements of both evolved substantially into the eventual film."
     },
     {
+      "source": "joe_hisaishi",
+      "target": "princess_mononoke",
+      "predicate": "COMPOSED",
+      "sentence": "The score was composed by Joe Hisaishi, a longtime collaborator of Miyazaki's."
+    },
+    {
+      "source": "princess_mononoke",
+      "target": "japan",
+      "predicate": "RELATED_TO",
+      "sentence": "It received a broadly positive critical response in both Japan and the United States and earned a number of major Japanese accolades, including top awards at the Mainichi Film Awards and the Japan Academy Film Prize."
+    },
+    {
       "source": "hayao_miyazaki",
       "target": "spirited_away",
       "predicate": "WROTE",
@@ -380,6 +596,42 @@
       "target": "spirited_away",
       "predicate": "DIRECTED",
       "sentence": "Spirited Away is a 2001 Japanese animated fantasy film written and directed by Hayao Miyazaki."
+    },
+    {
+      "source": "toshio_suzuki",
+      "target": "spirited_away",
+      "predicate": "PRODUCED",
+      "sentence": "It was produced by Toshio Suzuki, animated by Studio Ghibli, and distributed by Toho."
+    },
+    {
+      "source": "spirited_away",
+      "target": "rumi_hiiragi",
+      "predicate": "WORKED_ON",
+      "sentence": "The film stars Rumi Hiiragi, alongside Miyu Irino, Mari Natsuki, Takashi Naito, Yasuko Sawaguchi, Tsunehiko Kamijō, Takehiko Ono, and Bunta Sugawara."
+    },
+    {
+      "source": "studio_ghibli",
+      "target": "hayao_miyazaki",
+      "predicate": "FOUNDED",
+      "sentence": "It was founded on June 15, 1985, by directors Hayao Miyazaki and Isao Takahata and producer Toshio Suzuki, after acquiring Topcraft's assets."
+    },
+    {
+      "source": "studio_ghibli",
+      "target": "toei_animation",
+      "predicate": "RELATED_TO",
+      "sentence": "It has a strong presence in the animation industry and has expanded its portfolio to include various media such as short subjects, television commercials and two television films."
+    },
+    {
+      "source": "nausica_of_the_valley_of_the_wind_film",
+      "target": "the_wind_rises",
+      "predicate": "RELATED_TO",
+      "sentence": "'The Wind Has Risen') is a 2013 Japanese animated historical drama film written and directed by Hayao Miyazaki based on his 2009 manga of the same name."
+    },
+    {
+      "source": "the_wind_rises",
+      "target": "kiki_s_delivery_service",
+      "predicate": "WORKED_ON",
+      "sentence": "Produced by Studio Ghibli and distributed by Toho, the film stars the voices of Hideaki Anno, Miori Takimoto, Hidetoshi Nishijima, Masahiko Nishimura, Morio Kazama, Keiko Takeshita, Mirai Shida, Jun Kunimura, Shinobu Otake, and Nomura Mansai."
     },
     {
       "source": "hayao_miyazaki",
@@ -395,21 +647,27 @@
     },
     {
       "source": "toshio_suzuki",
+      "target": "hayao_miyazaki",
+      "predicate": "FOUNDED",
+      "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
+    },
+    {
+      "source": "toshio_suzuki",
+      "target": "my_neighbor_totoro",
+      "predicate": "WORKED_ON",
+      "sentence": "He played a pivotal role in the creation of Studio Ghibli and the production of its early films, including Nausicaä of the Valley of the Wind, My Neighbor Totoro, and Grave of the Fireflies."
+    },
+    {
+      "source": "toshio_suzuki",
       "target": "studio_ghibli",
       "predicate": "WORKED_ON",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
+      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
     },
     {
       "source": "animage",
       "target": "hayao_miyazaki",
       "predicate": "RELATED_TO",
       "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
-    },
-    {
-      "source": "castle_in_the_sky",
-      "target": "hayao_miyazaki",
-      "predicate": "RELATED_TO",
-      "sentence": "He worked as an assistant director, holding various positions over the years and collaborating with colleague Hayao Miyazaki on Nausicaä of the Valley of the Wind (1984) and Castle in the Sky (1986), eventually directing his own film, The Great Adventure of Horus, Prince of the Sun (1968)."
     },
     {
       "source": "castle_in_the_sky",
@@ -433,37 +691,7 @@
       "source": "animage",
       "target": "toei_animation",
       "predicate": "RELATED_TO",
-      "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
-    },
-    {
-      "source": "isao_takahata",
-      "target": "toei_animation",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
-    },
-    {
-      "source": "studio_ghibli",
-      "target": "toei_animation",
-      "predicate": "RELATED_TO",
-      "sentence": "He is a co-founder and the current chairman of Studio Ghibli, one of Japan's most prominent animation studios."
-    },
-    {
-      "source": "kiki_s_delivery_service",
-      "target": "streamline_pictures",
-      "predicate": "RELATED_TO",
-      "sentence": "Produced by Studio Ghibli and distributed by Toho, the film stars the voices of Hideaki Anno, Miori Takimoto, Hidetoshi Nishijima, Masahiko Nishimura, Morio Kazama, Keiko Takeshita, Mirai Shida, Jun Kunimura, Shinobu Otake, and Nomura Mansai."
-    },
-    {
-      "source": "howl_s_moving_castle_film",
-      "target": "studio_ghibli",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "japan",
-      "target": "toei_animation",
-      "predicate": "RELATED_TO",
-      "sentence": "He is a co-founder and the current chairman of Studio Ghibli, one of Japan's most prominent animation studios."
+      "sentence": "It was produced by Toshio Suzuki, animated by Studio Ghibli, and distributed by Toho."
     },
     {
       "source": "animage",
@@ -472,34 +700,16 @@
       "sentence": "'The Wind Has Risen') is a 2013 Japanese animated historical drama film written and directed by Hayao Miyazaki based on his 2009 manga of the same name."
     },
     {
-      "source": "hayao_miyazaki",
-      "target": "toei_animation",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
-    },
-    {
       "source": "howl_s_moving_castle_film",
       "target": "princess_mononoke",
       "predicate": "RELATED_TO",
       "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
     },
     {
-      "source": "japan",
-      "target": "studio_ghibli",
-      "predicate": "RELATED_TO",
-      "sentence": "He is a co-founder and the current chairman of Studio Ghibli, one of Japan's most prominent animation studios."
-    },
-    {
       "source": "kiki_s_delivery_service",
       "target": "studio_ghibli",
       "predicate": "RELATED_TO",
       "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "animage",
-      "target": "japan",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
     },
     {
       "source": "animage",
@@ -526,46 +736,16 @@
       "sentence": "Produced by Studio Ghibli and distributed by Toho, the film stars the voices of Hideaki Anno, Miori Takimoto, Hidetoshi Nishijima, Masahiko Nishimura, Morio Kazama, Keiko Takeshita, Mirai Shida, Jun Kunimura, Shinobu Otake, and Nomura Mansai."
     },
     {
-      "source": "japan",
-      "target": "spirited_away",
-      "predicate": "RELATED_TO",
-      "sentence": "Four of the studio's films are among the ten highest-grossing Japanese feature films; Spirited Away is fourth, grossing ¥31.68 billion in Japan and over US$380 million worldwide."
-    },
-    {
       "source": "animage",
       "target": "toshio_suzuki",
       "predicate": "RELATED_TO",
       "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
     },
     {
-      "source": "toei_animation",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
-    },
-    {
-      "source": "hayao_miyazaki",
-      "target": "isao_takahata",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
-    },
-    {
       "source": "hayao_miyazaki",
       "target": "tokuma_shoten",
       "predicate": "RELATED_TO",
       "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
-    },
-    {
-      "source": "disney",
-      "target": "studio_ghibli",
-      "predicate": "RELATED_TO",
-      "sentence": "Pixar animator John Lasseter, a fan and friend of Miyazaki, convinced Walt Disney Studios  to buy the film's North American distribution rights, and served as executive producer of its English-dubbed version."
-    },
-    {
-      "source": "studio_ghibli",
-      "target": "tokuma_shoten",
-      "predicate": "RELATED_TO",
-      "sentence": "Four of the studio's films are among the ten highest-grossing Japanese feature films; Spirited Away is fourth, grossing ¥31.68 billion in Japan and over US$380 million worldwide."
     }
   ]
 }
