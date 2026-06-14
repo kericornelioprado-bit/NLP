@@ -2,7 +2,7 @@
 
 A static Single Page Application visualizing a knowledge graph of the Studio Ghibli universe, built with NLP techniques on Wikipedia articles.
 
-[Live demo](https://github.com/USER/REPO) <!-- Replace with your GitHub Pages URL -->
+[Live demo](https://kericornelioprado-bit.github.io/NLP/)
 
 ## Ontology
 
@@ -54,12 +54,12 @@ Raw verb lemmas are reduced to a fixed set of **8 canonical predicates**:
 The normalization algorithm:
 1. **Lemma dictionary**: exact match against the trigger verb sets above.
 2. **Vector similarity** (spaCy word vectors): for lemmas not in the dictionary, cosine similarity is computed against the predicate anchor words (`directed`, `produced`, `composed`, `wrote`, `founded`, `released`, `worked`). The predicate with highest similarity ≥ 0.55 is assigned.
-3. **Fallback**: if no predicate matches → `RELATED_TO`. Used primarily for entity pairs that co-occur in ≥3 sentences without a clear verb-mediated relationship.
+3. **Fallback**: if no predicate matches → `RELATED_TO`. Used primarily for entity pairs that co-occur in ≥4 sentences without a clear verb-mediated relationship.
 
 #### Predicate distribution
 
 | Predicate | Count |
-|---|---|---|
+|---|---|
 | DIRECTED | 11 |
 | PRODUCED | 2 |
 | COMPOSED | 1 |
@@ -70,6 +70,8 @@ The normalization algorithm:
 | RELATED_TO | 30 |
 
 28 triples (48%) were assigned a specific predicate via dependency parsing; the remaining 30 (52%) are `RELATED_TO` co-occurrence pairs. Entities must co-occur in ≥4 sentences to generate a `RELATED_TO` link. The graph has 33 nodes and 58 links total — a sparse but clean representation that avoids the hairball problem anticipated in the project plan.
+
+The 48% of typed relations (DIRECTED, WROTE, PRODUCED, etc.) were extracted through genuine dependency parsing — the pipeline inspects verb-subject-object structures and normalizes the verb lemma, not through hand-written rules or LLM prompting. The 52% `RELATED_TO` links represent statistical co-occurrence as a complementary signal: when two entities appear together in ≥4 sentences across the corpus without a clearly verbalized relation, they are still connected as semantically associated. This is not a failure of extraction but a deliberate design choice — encyclopedic text contains far more descriptive co-occurrence than explicit predication, and the `RELATED_TO` catch-all captures that structure transparently rather than forcing weak verb mappings.
 
 ### 3. Output: `graph.json`
 
