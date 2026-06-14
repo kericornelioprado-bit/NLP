@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Studio Ghibli Knowledge Graph</title>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="container">
+  <header>
+    <h1>Studio Ghibli Knowledge Graph</h1>
+    <p>Ontology built via NLP (spaCy NER + Dependency Parsing) on Wikipedia articles</p>
+  </header>
+
+  <div id="controls">
+    <div id="search-box">
+      <input type="text" id="search" placeholder="Search entity...">
+    </div>
+    <div id="filters">
+      <fieldset>
+        <legend>Entity Classes</legend>
+        <div id="class-filters"></div>
+      </fieldset>
+      <fieldset>
+        <legend>Predicates</legend>
+        <div id="predicate-filters"></div>
+      </fieldset>
+    </div>
+  </div>
+
+  <div id="graph-container">
+    <svg id="graph"></svg>
+    <div id="legend"></div>
+  </div>
+
+  <div id="detail-panel">
+    <button id="close-detail">&times;</button>
+    <div id="detail-content"></div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

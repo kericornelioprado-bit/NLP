@@ -1,0 +1,3 @@
+spacy>=3.7
+wikipedia-api
+rapidfuzz
