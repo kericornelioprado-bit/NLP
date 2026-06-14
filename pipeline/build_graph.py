@@ -30,7 +30,9 @@ WN_FOUNDED = {"found", "establish", "co-found", "cofound", "form", "create"}
 WN_RELEASED = {"release", "premiere", "debut", "open", "screen"}
 WN_WORKED = {"work", "animate", "design", "draw", "illustrate",
              "collaborate", "perform", "voice", "star", "feature",
-             "join", "make", "publish", "play", "appear"}
+             "join", "make", "publish", "play", "appear", "base",
+             "inspire", "influence", "include", "contribute",
+             "serve", "become", "name", "set"}
 
 KNOWN_PEOPLE = {
     "hayao miyazaki": ["hayao_miyazaki", "Hayao Miyazaki", "Person"],
@@ -69,10 +71,18 @@ KNOWN_ORGS = {
     "studio ghibli": ["studio_ghibli", "Studio Ghibli", "Organization"],
     "ghibli": ["studio_ghibli", "Studio Ghibli", "Organization"],
     "toei animation": ["toei_animation", "Toei Animation", "Organization"],
+    "toei": ["toei_animation", "Toei Animation", "Organization"],
+    "the toei company": ["toei_animation", "Toei Animation", "Organization"],
+    "toho": ["toei_animation", "Toei Animation", "Organization"],
     "topcraft": ["topcraft", "Topcraft", "Organization"],
     "tokuma shoten": ["tokuma_shoten", "Tokuma Shoten", "Organization"],
+    "tokuma": ["tokuma_shoten", "Tokuma Shoten", "Organization"],
     "nippon animation": ["nippon_animation", "Nippon Animation", "Organization"],
     "tokyo movie shinsha": ["tokyo_movie_shinsha", "Tokyo Movie Shinsha", "Organization"],
+    "walt disney studios": ["disney", "Disney", "Organization"],
+    "disney": ["disney", "Disney", "Organization"],
+    "streamline pictures": ["streamline_pictures", "Streamline Pictures", "Organization"],
+    "studio ghibli inc.": ["studio_ghibli", "Studio Ghibli", "Organization"],
 }
 
 KNOWN_LOCATIONS = {
@@ -81,6 +91,34 @@ KNOWN_LOCATIONS = {
     "the united states": ["the_united_states", "United States", "Location"],
     "united states": ["the_united_states", "United States", "Location"],
 }
+
+ENTITY_BLACKLIST = {
+    "the same year", "between", "five-year-old", "nineteenth-century",
+    "half", "and", "the", "it", "he", "she", "they", "his", "her",
+    "japanese", "english", "american", "french",
+    "the film", "the movie", "the studio", "the series",
+    "world war ii", "world war",
+}
+
+ENTITY_LABEL_NOISE = {
+    "award", "prize", "film award", "best animated",
+    "best foreign", "picture of the year",
+}
+
+def is_blacklisted(text):
+    lower = text.lower().strip().rstrip("'s.,;")
+    if lower in ENTITY_BLACKLIST:
+        return True
+    if len(lower) <= 2:
+        return True
+    if lower.isdigit() or re.match(r"^\d+$", lower):
+        return True
+    if re.match(r"^(the|a|an)\s+\d", lower):
+        return True
+    for noise in ENTITY_LABEL_NOISE:
+        if noise in lower:
+            return True
+    return False
 
 
 def slugify(text):
@@ -120,7 +158,7 @@ def resolve_known(text_clean):
 def find_slug(text, canonical):
     clean = text.strip().rstrip("'s.,;")
     lower = clean.lower()
-    if len(lower) < 2:
+    if is_blacklisted(clean):
         return None
     known = resolve_known(clean)
     if known:
@@ -133,7 +171,7 @@ def find_slug(text, canonical):
             return slug
     for slug, info in canonical.items():
         cl = info["label"].lower()
-        if fuzz.partial_ratio(lower, cl) >= 92:
+        if fuzz.partial_ratio(lower, cl) >= 85:
             return slug
     return None
 
@@ -361,16 +399,16 @@ def extract_entities_from_docs(docs, nlp):
     for slug, text in docs.items():
         doc = nlp(text)
         for ent in doc.ents:
-            cls = NER_LABEL_TO_CLASS.get(ent.label_)
-            if cls is None:
-                continue
             clean = ent.text.strip().rstrip("'s.,")
-            if len(clean) < 2:
+            if is_blacklisted(clean) or len(clean) < 2:
                 continue
             known = resolve_known(clean)
             if known:
                 mention_counter[known[0]] += 1
             else:
+                cls = NER_LABEL_TO_CLASS.get(ent.label_)
+                if cls is None:
+                    continue
                 eslug = slugify(clean)
                 if eslug not in canonical:
                     canonical[eslug] = {"label": clean, "class": cls}
@@ -428,7 +466,7 @@ def build_graph():
     print(f"Pattern-based triples: {len(pattern_triples)}")
 
     print("Extracting co-occurrence links...")
-    cooccur_triples = extract_cooccurrence_links(docs, nlp, canonical, min_cooccur=3)
+    cooccur_triples = extract_cooccurrence_links(docs, nlp, canonical, min_cooccur=4)
     print(f"Co-occurrence triples: {len(cooccur_triples)}")
 
     pattern_pairs = set()
@@ -445,19 +483,36 @@ def build_graph():
     for t in all_triples:
         important_ids.add(t["source"])
         important_ids.add(t["target"])
-    for slug in canonical:
-        if mention_counter.get(slug, 0) >= 3:
-            important_ids.add(slug)
+
+    core_slugs = set()
+    for info_list in [KNOWN_PEOPLE.values(), KNOWN_FILMS.values(),
+                       KNOWN_ORGS.values(), KNOWN_LOCATIONS.values()]:
+        for v in info_list:
+            core_slugs.add(v[0])
 
     nodes = []
-    for slug in sorted(important_ids):
+    for slug in sorted(canonical):
         if slug not in canonical:
+            continue
+        info = canonical[slug]
+        mentions = mention_counter.get(slug, 0)
+        if info["class"] == "Date":
+            continue
+        if slug in core_slugs:
+            pass
+        elif mentions >= 2:
+            nlinks = sum(1 for t in all_triples
+                         if (t["source"] == slug or t["target"] == slug)
+                         and t["predicate"] != "RELATED_TO")
+            if nlinks == 0:
+                continue
+        else:
             continue
         nodes.append({
             "id": slug,
-            "label": canonical[slug]["label"],
-            "class": canonical[slug]["class"],
-            "mentions": mention_counter.get(slug, 0),
+            "label": info["label"],
+            "class": info["class"],
+            "mentions": mentions,
         })
 
     node_ids = {n["id"] for n in nodes}

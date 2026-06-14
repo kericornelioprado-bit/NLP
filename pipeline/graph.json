@@ -20,148 +20,10 @@
   },
   "nodes": [
     {
-      "id": "1979",
-      "label": "1979",
-      "class": "Date",
-      "mentions": 3
-    },
-    {
-      "id": "1984",
-      "label": "1984",
-      "class": "Date",
-      "mentions": 4
-    },
-    {
-      "id": "1985",
-      "label": "1985",
-      "class": "Date",
-      "mentions": 3
-    },
-    {
-      "id": "1986",
-      "label": "1986",
-      "class": "Date",
-      "mentions": 4
-    },
-    {
-      "id": "1988",
-      "label": "1988",
-      "class": "Date",
-      "mentions": 7
-    },
-    {
-      "id": "1989",
-      "label": "1989",
-      "class": "Date",
-      "mentions": 3
-    },
-    {
-      "id": "1994",
-      "label": "1994",
-      "class": "Date",
-      "mentions": 1
-    },
-    {
-      "id": "1997",
-      "label": "1997",
-      "class": "Date",
-      "mentions": 4
-    },
-    {
-      "id": "2001",
-      "label": "2001",
-      "class": "Date",
-      "mentions": 3
-    },
-    {
-      "id": "2003",
-      "label": "2003",
-      "class": "Date",
-      "mentions": 3
-    },
-    {
-      "id": "2004",
-      "label": "2004",
-      "class": "Date",
-      "mentions": 3
-    },
-    {
-      "id": "2008",
-      "label": "2008",
-      "class": "Date",
-      "mentions": 4
-    },
-    {
-      "id": "2012",
-      "label": "2012",
-      "class": "Date",
-      "mentions": 2
-    },
-    {
-      "id": "2013",
-      "label": "2013",
-      "class": "Date",
-      "mentions": 4
-    },
-    {
-      "id": "2014",
-      "label": "2014",
-      "class": "Date",
-      "mentions": 2
-    },
-    {
-      "id": "2023",
-      "label": "2023",
-      "class": "Date",
-      "mentions": 2
-    },
-    {
-      "id": "akemi_yamaguchi",
-      "label": "Akemi Yamaguchi",
-      "class": "Person",
-      "mentions": 1
-    },
-    {
-      "id": "akihiro_miwa",
-      "label": "Akihiro Miwa",
-      "class": "Person",
-      "mentions": 2
-    },
-    {
-      "id": "an_early_age",
-      "label": "an early age",
-      "class": "Date",
-      "mentions": 1
-    },
-    {
       "id": "animage",
       "label": "Animage",
       "class": "Organization",
       "mentions": 2
-    },
-    {
-      "id": "ashitaka",
-      "label": "Ashitaka",
-      "class": "Person",
-      "mentions": 1
-    },
-    {
-      "id": "august_2_1986",
-      "label": "August 2, 1986",
-      "class": "Date",
-      "mentions": 1
-    },
-    {
-      "id": "between_2018_and_2025",
-      "label": "between 2018 and 2025",
-      "class": "Date",
-      "mentions": 1
-    },
-    {
-      "id": "buena_vista_home_entertainment",
-      "label": "Buena Vista Home Entertainment",
-      "class": "Organization",
-      "mentions": 1
     },
     {
       "id": "castle_in_the_sky",
@@ -170,46 +32,10 @@
       "mentions": 8
     },
     {
-      "id": "chieko_baisho",
-      "label": "Chieko Baisho",
-      "class": "Person",
-      "mentions": 1
-    },
-    {
-      "id": "chihiro",
-      "label": "Chihiro",
-      "class": "Person",
-      "mentions": 2
-    },
-    {
-      "id": "communication_and_humanitie",
-      "label": "Communication and Humanitie",
-      "class": "Film",
-      "mentions": 1
-    },
-    {
-      "id": "departure",
-      "label": "Departure",
-      "class": "Person",
-      "mentions": 1
-    },
-    {
-      "id": "diana_wynne_jone",
-      "label": "Diana Wynne Jone",
-      "class": "Organization",
-      "mentions": 1
-    },
-    {
       "id": "disney",
       "label": "Disney",
       "class": "Organization",
-      "mentions": 2
-    },
-    {
-      "id": "five_year_old",
-      "label": "five-year-old",
-      "class": "Date",
-      "mentions": 1
+      "mentions": 8
     },
     {
       "id": "grave_of_the_fireflies",
@@ -218,40 +44,16 @@
       "mentions": 0
     },
     {
-      "id": "hakuhodo_dy_media_partner",
-      "label": "Hakuhodo DY Media Partner",
-      "class": "Organization",
-      "mentions": 1
-    },
-    {
       "id": "hayao_miyazaki",
       "label": "Hayao Miyazaki",
       "class": "Person",
       "mentions": 52
     },
     {
-      "id": "heidi_girl_of_the_alp",
-      "label": "Heidi, Girl of the Alp",
-      "class": "Film",
-      "mentions": 1
-    },
-    {
-      "id": "hepburn",
-      "label": "Hepburn",
-      "class": "Person",
-      "mentions": 4
-    },
-    {
       "id": "howl_s_moving_castle_film",
       "label": "Howl's Moving Castle",
       "class": "Film",
-      "mentions": 4
-    },
-    {
-      "id": "iraq",
-      "label": "Iraq",
-      "class": "Location",
-      "mentions": 1
+      "mentions": 7
     },
     {
       "id": "isao_takahata",
@@ -263,13 +65,7 @@
       "id": "japan",
       "label": "Japan",
       "class": "Location",
-      "mentions": 24
-    },
-    {
-      "id": "jiro_horikoshi",
-      "label": "Jiro Horikoshi",
-      "class": "Person",
-      "mentions": 1
+      "mentions": 20
     },
     {
       "id": "joe_hisaishi",
@@ -278,58 +74,10 @@
       "mentions": 7
     },
     {
-      "id": "john_lasseter",
-      "label": "John Lasseter",
-      "class": "Person",
-      "mentions": 1
-    },
-    {
-      "id": "july_29_1989",
-      "label": "July 29, 1989",
-      "class": "Date",
-      "mentions": 1
-    },
-    {
-      "id": "keiko_yokozawa",
-      "label": "Keiko Yokozawa",
-      "class": "Person",
-      "mentions": 1
-    },
-    {
       "id": "kiki_s_delivery_service",
       "label": "Kiki's Delivery Service",
       "class": "Film",
       "mentions": 5
-    },
-    {
-      "id": "kobe",
-      "label": "Kobe",
-      "class": "Location",
-      "mentions": 1
-    },
-    {
-      "id": "lupin",
-      "label": "Lupin",
-      "class": "Person",
-      "mentions": 1
-    },
-    {
-      "id": "manson_international",
-      "label": "Manson International",
-      "class": "Organization",
-      "mentions": 1
-    },
-    {
-      "id": "masahiko_nishimura",
-      "label": "Masahiko Nishimura",
-      "class": "Person",
-      "mentions": 2
-    },
-    {
-      "id": "mayumi_tanaka",
-      "label": "Mayumi Tanaka",
-      "class": "Person",
-      "mentions": 1
     },
     {
       "id": "my_neighbor_totoro",
@@ -344,45 +92,21 @@
       "mentions": 7
     },
     {
-      "id": "nausica_shimamoto",
-      "label": "Nausicaä (Shimamoto",
-      "class": "Organization",
-      "mentions": 1
-    },
-    {
-      "id": "nineteenth_century",
-      "label": "nineteenth-century",
-      "class": "Date",
-      "mentions": 1
-    },
-    {
       "id": "nippon_animation",
       "label": "Nippon Animation",
       "class": "Organization",
       "mentions": 2
     },
     {
-      "id": "noriko_hidaka",
-      "label": "Noriko Hidaka",
-      "class": "Person",
-      "mentions": 1
-    },
-    {
-      "id": "north_america",
-      "label": "North America",
-      "class": "Location",
+      "id": "only_yesterday",
+      "label": "Only Yesterday",
+      "class": "Film",
       "mentions": 2
     },
     {
-      "id": "october_29_1935_april_5_2018",
-      "label": "October 29, 1935 – April 5, 2018",
-      "class": "Date",
-      "mentions": 1
-    },
-    {
-      "id": "oricon",
-      "label": "Oricon",
-      "class": "Organization",
+      "id": "pom_poko",
+      "label": "Pom Poko",
+      "class": "Film",
       "mentions": 1
     },
     {
@@ -410,26 +134,14 @@
       "mentions": 2
     },
     {
-      "id": "sheeta",
-      "label": "Sheeta",
-      "class": "Location",
-      "mentions": 2
-    },
-    {
-      "id": "sophie",
-      "label": "Sophie",
-      "class": "Person",
-      "mentions": 1
-    },
-    {
       "id": "spirited_away",
       "label": "Spirited Away",
       "class": "Film",
       "mentions": 6
     },
     {
-      "id": "streamline_picture",
-      "label": "Streamline Picture",
+      "id": "streamline_pictures",
+      "label": "Streamline Pictures",
       "class": "Organization",
       "mentions": 2
     },
@@ -440,111 +152,21 @@
       "mentions": 31
     },
     {
-      "id": "sumi_shimamoto",
-      "label": "Sumi Shimamoto",
-      "class": "Person",
-      "mentions": 1
-    },
-    {
-      "id": "sunao_katabuchi",
-      "label": "Sunao Katabuchi",
-      "class": "Location",
-      "mentions": 1
-    },
-    {
-      "id": "the_100_best_films_of_world_cinema",
-      "label": "The 100 Best Films of World Cinema",
-      "class": "Film",
-      "mentions": 1
-    },
-    {
-      "id": "the_academy_award_for_best_animated_feature",
-      "label": "the Academy Award for Best Animated Feature",
-      "class": "Organization",
-      "mentions": 5
-    },
-    {
-      "id": "the_agency_for_cultural_affair",
-      "label": "the Agency for Cultural Affair",
-      "class": "Organization",
-      "mentions": 1
-    },
-    {
-      "id": "the_anime_grand_prix",
-      "label": "the Anime Grand Prix",
-      "class": "Organization",
-      "mentions": 1
-    },
-    {
       "id": "the_boy_and_the_heron",
       "label": "The Boy and the Heron",
       "class": "Film",
       "mentions": 1
     },
     {
-      "id": "the_following_three_decade",
-      "label": "the following three decade",
-      "class": "Date",
-      "mentions": 1
-    },
-    {
-      "id": "the_fuji_nobur_award",
-      "label": "the Ōfuji Noburō Award",
-      "class": "Organization",
-      "mentions": 1
-    },
-    {
-      "id": "the_golden_bear",
-      "label": "the Golden Bear",
-      "class": "Location",
-      "mentions": 1
-    },
-    {
-      "id": "the_golden_globe_award_for_best_foreign_language_film",
-      "label": "the Golden Globe Award for Best Foreign Language Film",
-      "class": "Organization",
-      "mentions": 1
-    },
-    {
-      "id": "the_great_adventure_of_horu",
-      "label": "The Great Adventure of Horu",
+      "id": "the_castle_of_cagliostro",
+      "label": "The Castle of Cagliostro",
       "class": "Film",
-      "mentions": 2
-    },
-    {
-      "id": "the_mainichi_film_award",
-      "label": "the Mainichi Film Award",
-      "class": "Organization",
-      "mentions": 3
-    },
-    {
-      "id": "the_nippon_television_network",
-      "label": "the Nippon Television Network",
-      "class": "Organization",
       "mentions": 1
     },
     {
-      "id": "the_same_year",
-      "label": "the same year",
-      "class": "Date",
-      "mentions": 1
-    },
-    {
-      "id": "the_special_award",
-      "label": "the Special Award",
-      "class": "Organization",
-      "mentions": 1
-    },
-    {
-      "id": "the_toei_company",
-      "label": "the Toei Company",
-      "class": "Organization",
-      "mentions": 1
-    },
-    {
-      "id": "the_u_s_army_air_force",
-      "label": "the U.S. Army Air Force",
-      "class": "Organization",
+      "id": "the_tale_of_the_princess_kaguya",
+      "label": "The Tale of the Princess Kaguya",
+      "class": "Film",
       "mentions": 1
     },
     {
@@ -554,46 +176,28 @@
       "mentions": 4
     },
     {
-      "id": "the_wind_has_risen",
-      "label": "The Wind Has Risen",
-      "class": "Film",
-      "mentions": 1
-    },
-    {
       "id": "the_wind_rises",
       "label": "The Wind Rises",
       "class": "Film",
       "mentions": 3
     },
     {
-      "id": "the_year",
-      "label": "the year",
-      "class": "Date",
-      "mentions": 1
-    },
-    {
       "id": "toei_animation",
       "label": "Toei Animation",
       "class": "Organization",
-      "mentions": 3
-    },
-    {
-      "id": "toho",
-      "label": "Toho",
-      "class": "Location",
-      "mentions": 7
+      "mentions": 12
     },
     {
       "id": "tokuma_shoten",
       "label": "Tokuma Shoten",
       "class": "Organization",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "id": "tokyo",
       "label": "Tokyo",
       "class": "Location",
-      "mentions": 4
+      "mentions": 3
     },
     {
       "id": "tokyo_movie_shinsha",
@@ -611,49 +215,7 @@
       "id": "toshio_suzuki",
       "label": "Toshio Suzuki",
       "class": "Person",
-      "mentions": 12
-    },
-    {
-      "id": "tsunehiko_kamij",
-      "label": "Tsunehiko Kamijō",
-      "class": "Person",
-      "mentions": 2
-    },
-    {
-      "id": "tsutomu_tatsumi",
-      "label": "Tsutomu Tatsumi",
-      "class": "Person",
-      "mentions": 1
-    },
-    {
-      "id": "visby",
-      "label": "Visby",
-      "class": "Location",
-      "mentions": 1
-    },
-    {
-      "id": "walt_disney_studio",
-      "label": "Walt Disney Studio",
-      "class": "Organization",
-      "mentions": 4
-    },
-    {
-      "id": "world_masterpiece_theater",
-      "label": "World Masterpiece Theater",
-      "class": "Organization",
-      "mentions": 1
-    },
-    {
-      "id": "yubaba",
-      "label": "Yubaba",
-      "class": "Person",
-      "mentions": 2
-    },
-    {
-      "id": "yuria_nara",
-      "label": "Yuria Nara",
-      "class": "Person",
-      "mentions": 1
+      "mentions": 10
     }
   ],
   "links": [
@@ -671,36 +233,6 @@
     },
     {
       "source": "isao_takahata",
-      "target": "spirited_away",
-      "predicate": "PRODUCED",
-      "sentence": "It was produced by Isao Takahata, animated by Studio Ghibli, and distributed by the Toei Company."
-    },
-    {
-      "source": "the_mainichi_film_award",
-      "target": "mayumi_tanaka",
-      "predicate": "WORKED_ON",
-      "sentence": "The film stars the voices of Mayumi Tanaka, Keiko Yokozawa, Kotoe Hatsui, and Minori Terada."
-    },
-    {
-      "source": "hayao_miyazaki",
-      "target": "the_mainichi_film_award",
-      "predicate": "WORKED_ON",
-      "sentence": "The film was partly inspired by Miyazaki's trips to Wales, where he witnessed the aftermath of the 1984–1985 coal miners' strike."
-    },
-    {
-      "source": "joe_hisaishi",
-      "target": "2003",
-      "predicate": "COMPOSED",
-      "sentence": "The film's score was composed by Joe Hisaishi, who would become a close collaborator of Miyazaki's; Hisaishi also composed a reworked soundtrack for the 2003 English dub."
-    },
-    {
-      "source": "the_mainichi_film_award",
-      "target": "animage",
-      "predicate": "RELATED_TO",
-      "sentence": "The film also received several notable accolades, including the Ōfuji Noburō Award at the Mainichi Film Awards and the Anime Grand Prix from Animage."
-    },
-    {
-      "source": "isao_takahata",
       "target": "grave_of_the_fireflies",
       "predicate": "WROTE",
       "sentence": "Grave of the Fireflies is a 1988 Japanese animated war film written and directed by Isao Takahata."
@@ -710,36 +242,6 @@
       "target": "grave_of_the_fireflies",
       "predicate": "DIRECTED",
       "sentence": "Grave of the Fireflies is a 1988 Japanese animated war film written and directed by Isao Takahata."
-    },
-    {
-      "source": "spirited_away",
-      "target": "tsutomu_tatsumi",
-      "predicate": "WORKED_ON",
-      "sentence": "It stars the voices of Tsutomu Tatsumi, Ayano Shiraishi, Yoshiko Shinohara, and Akemi Yamaguchi."
-    },
-    {
-      "source": "studio_ghibli",
-      "target": "spirited_away",
-      "predicate": "WORKED_ON",
-      "sentence": "It was animated by Studio Ghibli, marking Takahata's first film with the studio."
-    },
-    {
-      "source": "the_mainichi_film_award",
-      "target": "toho",
-      "predicate": "RELEASED_IN",
-      "sentence": "The film was theatrically released in Japan by Toho on April 16, 1988, and was a modest success at the Japanese box office, grossing ¥1.7 billion."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "studio_ghibli",
-      "predicate": "RELATED_TO",
-      "sentence": "He co-founded Studio Ghibli and serves as its honorary chairman."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "toei_animation",
-      "predicate": "WORKED_ON",
-      "sentence": "He joined Toei Animation in 1963, working as an inbetween artist and key animator on films including Gulliver's Travels Beyond the Moon (1965), The Great Adventure of Horus, Prince of the Sun (1968), and Animal Treasure Island (1971), before moving to A-Pro in 1971, where he co-directed Lupin the Third Part I (1971–1972) alongside Isao Takahata."
     },
     {
       "source": "hayao_miyazaki",
@@ -752,126 +254,12 @@
       "target": "nippon_animation",
       "predicate": "DIRECTED",
       "sentence": "After moving to Zuiyō Eizō (later Nippon Animation) in 1973, Miyazaki worked as an animator on World Masterpiece Theater and directed the television series Future Boy Conan (1978)."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "tokyo_movie_shinsha",
-      "predicate": "WORKED_ON",
-      "sentence": "He joined Tokyo Movie Shinsha in 1979 to direct his first feature film, The Castle of Cagliostro (1979), and the television series Sherlock Hound (1984–1985)."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "1994",
-      "predicate": "WROTE",
-      "sentence": "He wrote and illustrated the manga Nausicaä of the Valley of the Wind (1982–1994) and directed the 1984 film adaptation produced by Topcraft."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "1994",
-      "predicate": "WORKED_ON",
-      "sentence": "He wrote and illustrated the manga Nausicaä of the Valley of the Wind (1982–1994) and directed the 1984 film adaptation produced by Topcraft."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "1994",
-      "predicate": "DIRECTED",
-      "sentence": "He wrote and illustrated the manga Nausicaä of the Valley of the Wind (1982–1994) and directed the 1984 film adaptation produced by Topcraft."
-    },
-    {
-      "source": "spirited_away",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Spirited Away (2001) became Japan's highest-grossing film and won the Academy Award for Best Animated Feature; it is frequently ranked among the greatest films of the 21st century."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "He retired from feature films in 2013 but later returned to make The Boy and the Heron (2023), which won the Academy Award for Best Animated Feature.\nMiyazaki's works are frequently subject to scholarly analysis and have been characterized by the recurrence of themes such as humanity's relationship with nature and technology, the importance of art and craftsmanship, and the difficulty of maintaining a pacifist ethic in a violent world."
-    },
-    {
-      "source": "toshio_suzuki",
-      "target": "the_mainichi_film_award",
-      "predicate": "PRODUCED",
-      "sentence": "The film was produced by Toshio Suzuki, animated by Studio Ghibli, and distributed by Toho."
-    },
-    {
-      "source": "spirited_away",
-      "target": "chieko_baisho",
-      "predicate": "WORKED_ON",
-      "sentence": "It stars the voices of Chieko Baisho, Takuya Kimura, and Akihiro Miwa."
-    },
-    {
-      "source": "spirited_away",
-      "target": "sophie",
-      "predicate": "RELATED_TO",
-      "sentence": "It tells the story of Sophie, a young milliner who is turned into an elderly woman by a witch who enters her shop and curses her."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "iraq",
-      "predicate": "RELATED_TO",
-      "sentence": "Miyazaki stated that he \"had a great deal of rage\" about the Iraq War, which led him to make a film that he felt would be poorly received in the United States."
-    },
-    {
-      "source": "howl_s_moving_castle_film",
-      "target": "2004",
-      "predicate": "RELEASED_IN",
-      "sentence": "Howl's Moving Castle premiered at the 61st Venice International Film Festival on 5 September 2004, and was theatrically released in Japan on 20 November."
-    },
-    {
-      "source": "spirited_away",
-      "target": "japan",
-      "predicate": "RELATED_TO",
-      "sentence": "It went on to gross $190 million in Japan and $46 million outside Japan, making it one of the most commercially successful Japanese films in history."
-    },
-    {
-      "source": "the_mainichi_film_award",
-      "target": "hayao_miyazaki",
-      "predicate": "RELATED_TO",
-      "sentence": "The film received critical acclaim, with particular praise for its visuals and Miyazaki's presentation of the themes."
-    },
-    {
-      "source": "spirited_away",
-      "target": "the_fuji_nobur_award",
-      "predicate": "RELATED_TO",
-      "sentence": "It won several other awards, including four Tokyo Anime Awards and a Nebula Award for Best Script."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "japan",
-      "predicate": "RELATED_TO",
-      "sentence": "A co-founder of Studio Ghibli, he earned international critical acclaim for his work as a director of Japanese animated feature films."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "hayao_miyazaki",
-      "predicate": "RELATED_TO",
-      "sentence": "He continued his partnership with Miyazaki, and under Nippon Animation directed the television series Heidi, Girl of the Alps (1974), 3000 Leagues in Search of Mother (1976), and Anne of Green Gables (1979)"
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "hayao_miyazaki",
-      "predicate": "DIRECTED",
-      "sentence": "He continued his partnership with Miyazaki, and under Nippon Animation directed the television series Heidi, Girl of the Alps (1974), 3000 Leagues in Search of Mother (1976), and Anne of Green Gables (1979)"
     },
     {
       "source": "isao_takahata",
       "target": "studio_ghibli",
       "predicate": "FOUNDED",
       "sentence": "Takahata, Miyazaki and others formed Studio Ghibli in 1985, where he would direct Grave of the Fireflies (1988), Only Yesterday (1991), Pom Poko (1994), and My Neighbors the Yamadas (1999)."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "grave_of_the_fireflies",
-      "predicate": "DIRECTED",
-      "sentence": "Takahata, Miyazaki and others formed Studio Ghibli in 1985, where he would direct Grave of the Fireflies (1988), Only Yesterday (1991), Pom Poko (1994), and My Neighbors the Yamadas (1999)."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "2008",
-      "predicate": "COMPOSED",
-      "sentence": "He composed the score for the Oscar-winning film Departures (2008)."
     },
     {
       "source": "hayao_miyazaki",
@@ -898,6 +286,12 @@
       "sentence": "Kiki's Delivery Service was released in Japan on July 29, 1989, by Toei."
     },
     {
+      "source": "disney",
+      "target": "tokuma_shoten",
+      "predicate": "PRODUCED",
+      "sentence": "The Walt Disney Studios produced an English dub in 1997, which became the first film under a deal between Tokuma and Disney to be released in English."
+    },
+    {
       "source": "hayao_miyazaki",
       "target": "my_neighbor_totoro",
       "predicate": "WROTE",
@@ -916,39 +310,9 @@
       "sentence": "My Neighbor Totoro is a 1988 Japanese animated fantasy film written and directed by Hayao Miyazaki and animated by Studio Ghibli for Tokuma Shoten."
     },
     {
-      "source": "spirited_away",
-      "target": "noriko_hidaka",
-      "predicate": "WORKED_ON",
-      "sentence": "It stars the voices of Noriko Hidaka, Chika Sakamoto and Hitoshi Takagi, and focuses on two young sisters who, after moving with their father to the countryside, experience interactions with friendly wood spirits in postwar Japan."
-    },
-    {
-      "source": "my_neighbor_totoro",
-      "target": "the_fuji_nobur_award",
-      "predicate": "RELATED_TO",
-      "sentence": "My Neighbor Totoro received numerous awards, including the Animage Anime Grand Prix prize, the Mainichi Film Award, and Kinema Junpo Award for Best Film in 1988."
-    },
-    {
-      "source": "spirited_away",
-      "target": "the_special_award",
-      "predicate": "RELATED_TO",
-      "sentence": "It also received the Special Award at the Blue Ribbon Awards in the same year."
-    },
-    {
-      "source": "the_mainichi_film_award",
-      "target": "oricon",
-      "predicate": "RELATED_TO",
-      "sentence": "The film and its titular character have become cultural icons, and made multiple cameo appearances in other films."
-    },
-    {
-      "source": "the_mainichi_film_award",
-      "target": "oricon",
-      "predicate": "WORKED_ON",
-      "sentence": "The film and its titular character have become cultural icons, and made multiple cameo appearances in other films."
-    },
-    {
       "source": "my_neighbor_totoro",
       "target": "studio_ghibli",
-      "predicate": "RELATED_TO",
+      "predicate": "WORKED_ON",
       "sentence": "Totoro also serves as the mascot for Studio Ghibli and is recognized as one of the most popular characters in Japanese animation."
     },
     {
@@ -964,28 +328,10 @@
       "sentence": "Nausicaä of the Valley of the Wind is a 1984 Japanese animated post-apocalyptic fantasy film written and directed by Hayao Miyazaki, based on his 1982 manga Nausicaä of the Valley of the Wind."
     },
     {
-      "source": "topcraft",
-      "target": "spirited_away",
-      "predicate": "PRODUCED",
-      "sentence": "It was produced by Topcraft and distributed by Toei Company."
-    },
-    {
       "source": "joe_hisaishi",
       "target": "hayao_miyazaki",
       "predicate": "COMPOSED",
       "sentence": "Joe Hisaishi, in his first collaboration with Miyazaki, composed the score."
-    },
-    {
-      "source": "the_mainichi_film_award",
-      "target": "sumi_shimamoto",
-      "predicate": "WORKED_ON",
-      "sentence": "The film stars the voices of Sumi Shimamoto, Gorō Naya, Yōji Matsuda, Yoshiko Sakakibara, and Iemasa Kayumi."
-    },
-    {
-      "source": "spirited_away",
-      "target": "nausica_shimamoto",
-      "predicate": "RELATED_TO",
-      "sentence": "Set in a post-nuclear futuristic world, it tells the story of Nausicaä (Shimamoto), the pacifist teenage princess of the Valley of the Wind who becomes embroiled in a struggle with Tolmekia, an empire that attempts to use an ancient weapon to eradicate a jungle populated by oversized, mutant insects."
     },
     {
       "source": "hayao_miyazaki",
@@ -998,12 +344,6 @@
       "target": "ponyo",
       "predicate": "DIRECTED",
       "sentence": "Ponyo is a 2008 Japanese animated fantasy film written and directed by Hayao Miyazaki."
-    },
-    {
-      "source": "the_mainichi_film_award",
-      "target": "yuria_nara",
-      "predicate": "WORKED_ON",
-      "sentence": "The film stars Yuria Nara, Hiroki Doi, Tomoko Yamaguchi, Kazushige Nagashima, Yūki Amami, George Tokoro, Rumi Hiiragi, Akiko Yano, Kazuko Yoshiyuki and Tomoko Naraoka."
     },
     {
       "source": "hayao_miyazaki",
@@ -1012,24 +352,6 @@
       "sentence": "It is the eighth film Miyazaki directed for Studio Ghibli, and his tenth overall."
     },
     {
-      "source": "the_mainichi_film_award",
-      "target": "ponyo",
-      "predicate": "RELATED_TO",
-      "sentence": "The film tells the story of Ponyo, a goldfish-like creature who escapes from the ocean and is helped by a five-year-old human boy named Sōsuke, after she is washed ashore while trapped in a glass jar."
-    },
-    {
-      "source": "the_toei_company",
-      "target": "spirited_away",
-      "predicate": "PRODUCED",
-      "sentence": "An English-language version of the film was released on August 14, 2009, to 927 theatres across the U.S., the widest opening for a Studio Ghibli film in the U.S. It was produced by The Kennedy/Marshall Company and released by Walt Disney Studios Motion Pictures through their Walt Disney Pictures banner."
-    },
-    {
-      "source": "spirited_away",
-      "target": "the_toei_company",
-      "predicate": "RELEASED_IN",
-      "sentence": "An English-language version of the film was released on August 14, 2009, to 927 theatres across the U.S., the widest opening for a Studio Ghibli film in the U.S. It was produced by The Kennedy/Marshall Company and released by Walt Disney Studios Motion Pictures through their Walt Disney Pictures banner."
-    },
-    {
       "source": "hayao_miyazaki",
       "target": "princess_mononoke",
       "predicate": "WROTE",
@@ -1040,18 +362,6 @@
       "target": "princess_mononoke",
       "predicate": "DIRECTED",
       "sentence": "Princess Mononoke is a 1997 Japanese animated historical fantasy film written and directed by Hayao Miyazaki."
-    },
-    {
-      "source": "the_mainichi_film_award",
-      "target": "ashitaka",
-      "predicate": "RELATED_TO",
-      "sentence": "Set in the Muromachi period of Japanese history, the film follows Ashitaka, a young Emishi prince who journeys west to cure his cursed arm and becomes embroiled in the conflict between the forest of the gods and a nearby town, as well as the feud between Lady Eboshi, the town's leader, and San, a human girl raised by wolves."
-    },
-    {
-      "source": "spirited_away",
-      "target": "akihiro_miwa",
-      "predicate": "WORKED_ON",
-      "sentence": "Produced by Toshio Suzuki, animated by Studio Ghibli, and distributed by Toho, it stars the voices of Yōji Matsuda, Yuriko Ishida, Yūko Tanaka, Kaoru Kobayashi, Masahiko Nishimura, Tsunehiko Kamijō, Akihiro Miwa, Mitsuko Mori, and Hisaya Morishige."
     },
     {
       "source": "hayao_miyazaki",
@@ -1072,60 +382,6 @@
       "sentence": "Spirited Away is a 2001 Japanese animated fantasy film written and directed by Hayao Miyazaki."
     },
     {
-      "source": "toshio_suzuki",
-      "target": "spirited_away",
-      "predicate": "PRODUCED",
-      "sentence": "It was produced by Toshio Suzuki, animated by Studio Ghibli, and distributed by Toho."
-    },
-    {
-      "source": "the_mainichi_film_award",
-      "target": "rumi_hiiragi",
-      "predicate": "WORKED_ON",
-      "sentence": "The film stars Rumi Hiiragi, alongside Miyu Irino, Mari Natsuki, Takashi Naito, Yasuko Sawaguchi, Tsunehiko Kamijō, Takehiko Ono, and Bunta Sugawara."
-    },
-    {
-      "source": "spirited_away",
-      "target": "heidi_girl_of_the_alp",
-      "predicate": "RELATED_TO",
-      "sentence": "It follows a young girl named  Chihiro \"Sen\" Ogino, who moves to a new neighborhood and inadvertently enters the world of kami (spirits of Japanese Shinto folklore)."
-    },
-    {
-      "source": "chihiro",
-      "target": "yubaba",
-      "predicate": "RELATED_TO",
-      "sentence": "After her parents are turned into pigs by the witch Yubaba, Chihiro takes a job working in Yubaba's bathhouse to find a way to free herself and her parents and return to the human world."
-    },
-    {
-      "source": "john_lasseter",
-      "target": "disney",
-      "predicate": "RELATED_TO",
-      "sentence": "Pixar animator John Lasseter, a fan and friend of Miyazaki, convinced Walt Disney Studios  to buy the film's North American distribution rights, and served as executive producer of its English-dubbed version."
-    },
-    {
-      "source": "spirited_away",
-      "target": "hayao_miyazaki",
-      "predicate": "FOUNDED",
-      "sentence": "It was founded on June 15, 1985, by directors Hayao Miyazaki and Isao Takahata and producer Toshio Suzuki, after acquiring Topcraft's assets."
-    },
-    {
-      "source": "the_fuji_nobur_award",
-      "target": "the_academy_award_for_best_animated_feature",
-      "predicate": "RELATED_TO",
-      "sentence": "Studio Ghibli's major awards across  organizations include two Academy Awards for Best Animated Feature, one Golden Globe Award for Best Animated Feature Film, one BAFTA Award for Best Animated Film, one Golden Bear, three Animage Grand Prix awards and six Japan Academy Prizes."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "the_wind_has_risen",
-      "predicate": "RELATED_TO",
-      "sentence": "'The Wind Has Risen') is a 2013 Japanese animated historical drama film written and directed by Hayao Miyazaki based on his 2009 manga of the same name."
-    },
-    {
-      "source": "the_mainichi_film_award",
-      "target": "masahiko_nishimura",
-      "predicate": "WORKED_ON",
-      "sentence": "Produced by Studio Ghibli and distributed by Toho, the film stars the voices of Hideaki Anno, Miori Takimoto, Hidetoshi Nishijima, Masahiko Nishimura, Morio Kazama, Keiko Takeshita, Mirai Shida, Jun Kunimura, Shinobu Otake, and Nomura Mansai."
-    },
-    {
       "source": "hayao_miyazaki",
       "target": "the_boy_and_the_heron",
       "predicate": "DIRECTED",
@@ -1138,82 +394,16 @@
       "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
     },
     {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "hayao_miyazaki",
-      "predicate": "FOUNDED",
-      "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "my_neighbor_totoro",
+      "source": "toshio_suzuki",
+      "target": "studio_ghibli",
       "predicate": "WORKED_ON",
-      "sentence": "He played a pivotal role in the creation of Studio Ghibli and the production of its early films, including Nausicaä of the Valley of the Wind, My Neighbor Totoro, and Grave of the Fireflies."
-    },
-    {
-      "source": "toshio_suzuki",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "toshio_suzuki",
-      "target": "2023",
-      "predicate": "RELATED_TO",
       "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
     },
     {
-      "source": "1986",
-      "target": "castle_in_the_sky",
-      "predicate": "RELATED_TO",
-      "sentence": "He worked as an assistant director, holding various positions over the years and collaborating with colleague Hayao Miyazaki on Nausicaä of the Valley of the Wind (1984) and Castle in the Sky (1986), eventually directing his own film, The Great Adventure of Horus, Prince of the Sun (1968)."
-    },
-    {
-      "source": "1986",
+      "source": "animage",
       "target": "hayao_miyazaki",
       "predicate": "RELATED_TO",
-      "sentence": "He worked as an assistant director, holding various positions over the years and collaborating with colleague Hayao Miyazaki on Nausicaä of the Valley of the Wind (1984) and Castle in the Sky (1986), eventually directing his own film, The Great Adventure of Horus, Prince of the Sun (1968)."
-    },
-    {
-      "source": "1986",
-      "target": "howl_s_moving_castle_film",
-      "predicate": "RELATED_TO",
-      "sentence": "He worked as an assistant director, holding various positions over the years and collaborating with colleague Hayao Miyazaki on Nausicaä of the Valley of the Wind (1984) and Castle in the Sky (1986), eventually directing his own film, The Great Adventure of Horus, Prince of the Sun (1968)."
-    },
-    {
-      "source": "1986",
-      "target": "japan",
-      "predicate": "RELATED_TO",
-      "sentence": "Toshio Suzuki (Japanese: 鈴木 敏夫, Hepburn: Suzuki Toshio; born August 19, 1948) is a Japanese film producer and studio executive."
-    },
-    {
-      "source": "1986",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "It held the record for 19 years until it was surpassed by Demon Slayer:"
-    },
-    {
-      "source": "1986",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "With a budget of US$19 million, production of Spirited Away began in 2000."
-    },
-    {
-      "source": "1986",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Toshio Suzuki (Japanese: 鈴木 敏夫, Hepburn: Suzuki Toshio; born August 19, 1948) is a Japanese film producer and studio executive."
-    },
-    {
-      "source": "1986",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Toshio Suzuki (Japanese: 鈴木 敏夫, Hepburn: Suzuki Toshio; born August 19, 1948) is a Japanese film producer and studio executive."
-    },
-    {
-      "source": "1986",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "It held the record for 19 years until it was surpassed by Demon Slayer:"
+      "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
     },
     {
       "source": "castle_in_the_sky",
@@ -1228,2302 +418,130 @@
       "sentence": "He worked as an assistant director, holding various positions over the years and collaborating with colleague Hayao Miyazaki on Nausicaä of the Valley of the Wind (1984) and Castle in the Sky (1986), eventually directing his own film, The Great Adventure of Horus, Prince of the Sun (1968)."
     },
     {
-      "source": "castle_in_the_sky",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "He worked as an assistant director, holding various positions over the years and collaborating with colleague Hayao Miyazaki on Nausicaä of the Valley of the Wind (1984) and Castle in the Sky (1986), eventually directing his own film, The Great Adventure of Horus, Prince of the Sun (1968)."
-    },
-    {
-      "source": "castle_in_the_sky",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "He worked as an assistant director, holding various positions over the years and collaborating with colleague Hayao Miyazaki on Nausicaä of the Valley of the Wind (1984) and Castle in the Sky (1986), eventually directing his own film, The Great Adventure of Horus, Prince of the Sun (1968)."
-    },
-    {
-      "source": "castle_in_the_sky",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "He worked as an assistant director, holding various positions over the years and collaborating with colleague Hayao Miyazaki on Nausicaä of the Valley of the Wind (1984) and Castle in the Sky (1986), eventually directing his own film, The Great Adventure of Horus, Prince of the Sun (1968)."
-    },
-    {
-      "source": "castle_in_the_sky",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "He worked as an assistant director, holding various positions over the years and collaborating with colleague Hayao Miyazaki on Nausicaä of the Valley of the Wind (1984) and Castle in the Sky (1986), eventually directing his own film, The Great Adventure of Horus, Prince of the Sun (1968)."
-    },
-    {
-      "source": "hayao_miyazaki",
-      "target": "the_academy_award_for_best_animated_feature",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was originally intended to be Miyazaki's final feature film, before Miyazaki reversed his decision and eventually directed The Boy and the Heron."
-    },
-    {
-      "source": "hayao_miyazaki",
-      "target": "the_great_adventure_of_horu",
-      "predicate": "RELATED_TO",
-      "sentence": "He worked as an assistant director, holding various positions over the years and collaborating with colleague Hayao Miyazaki on Nausicaä of the Valley of the Wind (1984) and Castle in the Sky (1986), eventually directing his own film, The Great Adventure of Horus, Prince of the Sun (1968)."
-    },
-    {
-      "source": "hayao_miyazaki",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "The Wind Has Risen by Tatsuo Hori."
-    },
-    {
-      "source": "howl_s_moving_castle_film",
-      "target": "japan",
-      "predicate": "RELATED_TO",
-      "sentence": "It stars the voices of Noriko Hidaka, Chika Sakamoto and Hitoshi Takagi, and focuses on two young sisters who, after moving with their father to the countryside, experience interactions with friendly wood spirits in postwar Japan."
-    },
-    {
-      "source": "howl_s_moving_castle_film",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "howl_s_moving_castle_film",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "howl_s_moving_castle_film",
-      "target": "the_academy_award_for_best_animated_feature",
-      "predicate": "RELATED_TO",
-      "sentence": "Howl's Moving Castle is a 2004 Japanese animated fantasy film written and directed by Hayao Miyazaki, based on Diana Wynne Jones' 1986 novel."
-    },
-    {
-      "source": "howl_s_moving_castle_film",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "howl_s_moving_castle_film",
-      "target": "the_great_adventure_of_horu",
-      "predicate": "RELATED_TO",
-      "sentence": "He worked as an assistant director, holding various positions over the years and collaborating with colleague Hayao Miyazaki on Nausicaä of the Valley of the Wind (1984) and Castle in the Sky (1986), eventually directing his own film, The Great Adventure of Horus, Prince of the Sun (1968)."
-    },
-    {
-      "source": "howl_s_moving_castle_film",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "howl_s_moving_castle_film",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "Howl's Moving Castle is a 2004 Japanese animated fantasy film written and directed by Hayao Miyazaki, based on Diana Wynne Jones' 1986 novel."
-    },
-    {
-      "source": "japan",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "Released on 20 July 2013 in Japan, The Wind Rises was the highest-grossing Japanese film of 2013."
-    },
-    {
-      "source": "japan",
-      "target": "the_academy_award_for_best_animated_feature",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "japan",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "He is a co-founder and the current chairman of Studio Ghibli, one of Japan's most prominent animation studios."
-    },
-    {
-      "source": "japan",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Toshio Suzuki (Japanese: 鈴木 敏夫, Hepburn: Suzuki Toshio; born August 19, 1948) is a Japanese film producer and studio executive."
-    },
-    {
-      "source": "japan",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "'The Wind Has Risen') is a 2013 Japanese animated historical drama film written and directed by Hayao Miyazaki based on his 2009 manga of the same name."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "the_academy_award_for_best_animated_feature",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "He officially retired from his producer role in 2014, becoming general manager, but has remained involved in the studio's management and creative activities."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "the_great_adventure_of_horu",
-      "predicate": "RELATED_TO",
-      "sentence": "He worked as an assistant director, holding various positions over the years and collaborating with colleague Hayao Miyazaki on Nausicaä of the Valley of the Wind (1984) and Castle in the Sky (1986), eventually directing his own film, The Great Adventure of Horus, Prince of the Sun (1968)."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "the_academy_award_for_best_animated_feature",
-      "predicate": "RELATED_TO",
-      "sentence": "'The Wind Has Risen') is a 2013 Japanese animated historical drama film written and directed by Hayao Miyazaki based on his 2009 manga of the same name."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "He officially retired from his producer role in 2014, becoming general manager, but has remained involved in the studio's management and creative activities."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "the_great_adventure_of_horu",
-      "predicate": "RELATED_TO",
-      "sentence": "He worked as an assistant director, holding various positions over the years and collaborating with colleague Hayao Miyazaki on Nausicaä of the Valley of the Wind (1984) and Castle in the Sky (1986), eventually directing his own film, The Great Adventure of Horus, Prince of the Sun (1968)."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "the_academy_award_for_best_animated_feature",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "the_academy_award_for_best_animated_feature",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "the_academy_award_for_best_animated_feature",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "'The Wind Has Risen') is a 2013 Japanese animated historical drama film written and directed by Hayao Miyazaki based on his 2009 manga of the same name."
-    },
-    {
-      "source": "the_boy_and_the_heron",
-      "target": "the_great_adventure_of_horu",
-      "predicate": "RELATED_TO",
-      "sentence": "He worked as an assistant director, holding various positions over the years and collaborating with colleague Hayao Miyazaki on Nausicaä of the Valley of the Wind (1984) and Castle in the Sky (1986), eventually directing his own film, The Great Adventure of Horus, Prince of the Sun (1968)."
-    },
-    {
-      "source": "the_boy_and_the_heron",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "the_boy_and_the_heron",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "Produced by Studio Ghibli and distributed by Toho, the film stars the voices of Hideaki Anno, Miori Takimoto, Hidetoshi Nishijima, Masahiko Nishimura, Morio Kazama, Keiko Takeshita, Mirai Shida, Jun Kunimura, Shinobu Otake, and Nomura Mansai."
-    },
-    {
-      "source": "the_great_adventure_of_horu",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "He worked as an assistant director, holding various positions over the years and collaborating with colleague Hayao Miyazaki on Nausicaä of the Valley of the Wind (1984) and Castle in the Sky (1986), eventually directing his own film, The Great Adventure of Horus, Prince of the Sun (1968)."
-    },
-    {
-      "source": "the_mainichi_film_award",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "Produced by Studio Ghibli and distributed by Toho, the film stars the voices of Hideaki Anno, Miori Takimoto, Hidetoshi Nishijima, Masahiko Nishimura, Morio Kazama, Keiko Takeshita, Mirai Shida, Jun Kunimura, Shinobu Otake, and Nomura Mansai."
-    },
-    {
-      "source": "isao_takahata",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
-    },
-    {
-      "source": "isao_takahata",
-      "target": "the_academy_award_for_best_animated_feature",
-      "predicate": "RELATED_TO",
-      "sentence": "Spirited Away was a co-recipient of the Golden Bear at the 2002 Berlin International Film Festival and became the first hand-drawn, non-English-language animated film to win the Academy Award for Best Animated Feature at the 75th Academy Awards."
-    },
-    {
-      "source": "isao_takahata",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
-    },
-    {
-      "source": "isao_takahata",
-      "target": "toei_animation",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
-    },
-    {
-      "source": "isao_takahata",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "It was founded on June 15, 1985, by directors Hayao Miyazaki and Isao Takahata and producer Toshio Suzuki, after acquiring Topcraft's assets."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "spirited_away",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "spirited_away",
-      "target": "the_academy_award_for_best_animated_feature",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "spirited_away",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "spirited_away",
-      "target": "toei_animation",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "spirited_away",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "Their mascot and most recognizable character is Totoro from the 1988 film My Neighbor Totoro, a giant spirit inspired by raccoon dogs (tanuki) and cats (neko)."
-    },
-    {
-      "source": "studio_ghibli",
-      "target": "the_academy_award_for_best_animated_feature",
-      "predicate": "RELATED_TO",
-      "sentence": "Four of the studio's films are among the ten highest-grossing Japanese feature films; Spirited Away is fourth, grossing ¥31.68 billion in Japan and over US$380 million worldwide."
-    },
-    {
-      "source": "studio_ghibli",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "He officially retired from his producer role in 2014, becoming general manager, but has remained involved in the studio's management and creative activities."
-    },
-    {
-      "source": "studio_ghibli",
-      "target": "toei_animation",
-      "predicate": "RELATED_TO",
-      "sentence": "He is a co-founder and the current chairman of Studio Ghibli, one of Japan's most prominent animation studios."
-    },
-    {
-      "source": "studio_ghibli",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "the_academy_award_for_best_animated_feature",
-      "target": "toei_animation",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "the_boy_and_the_heron",
-      "target": "the_toei_company",
-      "predicate": "RELATED_TO",
-      "sentence": "An English-language version of the film was released on August 14, 2009, to 927 theatres across the U.S., the widest opening for a Studio Ghibli film in the U.S. It was produced by The Kennedy/Marshall Company and released by Walt Disney Studios Motion Pictures through their Walt Disney Pictures banner."
-    },
-    {
-      "source": "the_boy_and_the_heron",
-      "target": "toei_animation",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
-    },
-    {
-      "source": "the_toei_company",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "An English-language version of the film was released on August 14, 2009, to 927 theatres across the U.S., the widest opening for a Studio Ghibli film in the U.S. It was produced by The Kennedy/Marshall Company and released by Walt Disney Studios Motion Pictures through their Walt Disney Pictures banner."
-    },
-    {
-      "source": "toei_animation",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "It is commonly regarded as one of the greatest animated films, and was the second-highest-ranked animation in a poll conducted by Japan's Agency for Cultural Affairs in 2006."
-    },
-    {
-      "source": "keiko_yokozawa",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "Produced by Studio Ghibli and distributed by Toho, the film stars the voices of Hideaki Anno, Miori Takimoto, Hidetoshi Nishijima, Masahiko Nishimura, Morio Kazama, Keiko Takeshita, Mirai Shida, Jun Kunimura, Shinobu Otake, and Nomura Mansai."
-    },
-    {
-      "source": "keiko_yokozawa",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Produced by Studio Ghibli and distributed by Toho, the film stars the voices of Hideaki Anno, Miori Takimoto, Hidetoshi Nishijima, Masahiko Nishimura, Morio Kazama, Keiko Takeshita, Mirai Shida, Jun Kunimura, Shinobu Otake, and Nomura Mansai."
-    },
-    {
-      "source": "keiko_yokozawa",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Produced by Studio Ghibli and distributed by Toho, the film stars the voices of Hideaki Anno, Miori Takimoto, Hidetoshi Nishijima, Masahiko Nishimura, Morio Kazama, Keiko Takeshita, Mirai Shida, Jun Kunimura, Shinobu Otake, and Nomura Mansai."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "sheeta",
-      "predicate": "RELATED_TO",
-      "sentence": "The film tells the story of Ponyo, a goldfish-like creature who escapes from the ocean and is helped by a five-year-old human boy named Sōsuke, after she is washed ashore while trapped in a glass jar."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "the_u_s_army_air_force",
-      "predicate": "RELATED_TO",
-      "sentence": "Set in the Muromachi period of Japanese history, the film follows Ashitaka, a young Emishi prince who journeys west to cure his cursed arm and becomes embroiled in the conflict between the forest of the gods and a nearby town, as well as the feud between Lady Eboshi, the town's leader, and San, a human girl raised by wolves."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "sheeta",
-      "predicate": "RELATED_TO",
-      "sentence": "The film tells the story of Ponyo, a goldfish-like creature who escapes from the ocean and is helped by a five-year-old human boy named Sōsuke, after she is washed ashore while trapped in a glass jar."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "the_u_s_army_air_force",
-      "predicate": "RELATED_TO",
-      "sentence": "Set in the Muromachi period of Japanese history, the film follows Ashitaka, a young Emishi prince who journeys west to cure his cursed arm and becomes embroiled in the conflict between the forest of the gods and a nearby town, as well as the feud between Lady Eboshi, the town's leader, and San, a human girl raised by wolves."
-    },
-    {
-      "source": "sheeta",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "The film tells the story of Ponyo, a goldfish-like creature who escapes from the ocean and is helped by a five-year-old human boy named Sōsuke, after she is washed ashore while trapped in a glass jar."
-    },
-    {
-      "source": "the_boy_and_the_heron",
-      "target": "the_u_s_army_air_force",
-      "predicate": "RELATED_TO",
-      "sentence": "Set in the Muromachi period of Japanese history, the film follows Ashitaka, a young Emishi prince who journeys west to cure his cursed arm and becomes embroiled in the conflict between the forest of the gods and a nearby town, as well as the feud between Lady Eboshi, the town's leader, and San, a human girl raised by wolves."
-    },
-    {
-      "source": "the_mainichi_film_award",
-      "target": "the_u_s_army_air_force",
-      "predicate": "RELATED_TO",
-      "sentence": "Set in the Muromachi period of Japanese history, the film follows Ashitaka, a young Emishi prince who journeys west to cure his cursed arm and becomes embroiled in the conflict between the forest of the gods and a nearby town, as well as the feud between Lady Eboshi, the town's leader, and San, a human girl raised by wolves."
-    },
-    {
-      "source": "the_u_s_army_air_force",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "Set in the Muromachi period of Japanese history, the film follows Ashitaka, a young Emishi prince who journeys west to cure his cursed arm and becomes embroiled in the conflict between the forest of the gods and a nearby town, as well as the feud between Lady Eboshi, the town's leader, and San, a human girl raised by wolves."
-    },
-    {
-      "source": "castle_in_the_sky",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "He worked as an assistant director, holding various positions over the years and collaborating with colleague Hayao Miyazaki on Nausicaä of the Valley of the Wind (1984) and Castle in the Sky (1986), eventually directing his own film, The Great Adventure of Horus, Prince of the Sun (1968)."
-    },
-    {
-      "source": "howl_s_moving_castle_film",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "howl_s_moving_castle_film",
-      "target": "spirited_away",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "howl_s_moving_castle_film",
-      "target": "studio_ghibli",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "kobe",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was originally intended to be Miyazaki's final feature film, before Miyazaki reversed his decision and eventually directed The Boy and the Heron."
-    },
-    {
-      "source": "kobe",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "Miyazaki wrote the screenplay after he decided the film would be based on the ten-year-old daughter of his friend Seiji Okuda, the film's associate producer, who came to visit his house each summer."
-    },
-    {
-      "source": "kobe",
-      "target": "spirited_away",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was originally intended to be Miyazaki's final feature film, before Miyazaki reversed his decision and eventually directed The Boy and the Heron."
-    },
-    {
-      "source": "kobe",
-      "target": "studio_ghibli",
-      "predicate": "RELATED_TO",
-      "sentence": "Following a distribution deal struck between Tokuma Shoten and Walt Disney Studios, it was the first of Studio Ghibli's films to be released internationally and was given to Miramax Films to be dubbed into English and distributed in North America."
-    },
-    {
-      "source": "kobe",
-      "target": "the_academy_award_for_best_animated_feature",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was originally intended to be Miyazaki's final feature film, before Miyazaki reversed his decision and eventually directed The Boy and the Heron."
-    },
-    {
-      "source": "kobe",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was originally intended to be Miyazaki's final feature film, before Miyazaki reversed his decision and eventually directed The Boy and the Heron."
-    },
-    {
-      "source": "kobe",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was originally intended to be Miyazaki's final feature film, before Miyazaki reversed his decision and eventually directed The Boy and the Heron."
-    },
-    {
-      "source": "kobe",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "In 1987, Group Fudosha asked Kadono's publishers for the rights to the novel to be made into a film by either Miyazaki or Isao Takahata."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "spirited_away",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "studio_ghibli",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "studio_ghibli",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "studio_ghibli",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "the_academy_award_for_best_animated_feature",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was originally intended to be Miyazaki's final feature film, before Miyazaki reversed his decision and eventually directed The Boy and the Heron."
-    },
-    {
-      "source": "toshio_suzuki",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "hayao_miyazaki",
-      "target": "the_agency_for_cultural_affair",
-      "predicate": "RELATED_TO",
-      "sentence": "The film explores themes of environmentalism and societal diversity, partly inspired by Miyazaki's readings into novel historical and cultural studies, and presents a feminist portrayal of its characters."
-    },
-    {
-      "source": "hayao_miyazaki",
-      "target": "the_nippon_television_network",
-      "predicate": "RELATED_TO",
-      "sentence": "The studio's work is highly acclaimed by both critics and audiences and has been recognized with numerous awards."
-    },
-    {
-      "source": "hayao_miyazaki",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "He officially retired from his producer role in 2014, becoming general manager, but has remained involved in the studio's management and creative activities."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "the_agency_for_cultural_affair",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "the_following_three_decade",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "the_nippon_television_network",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "spirited_away",
-      "target": "the_agency_for_cultural_affair",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "spirited_away",
-      "target": "the_following_three_decade",
-      "predicate": "RELATED_TO",
-      "sentence": "It follows a young girl named  Chihiro \"Sen\" Ogino, who moves to a new neighborhood and inadvertently enters the world of kami (spirits of Japanese Shinto folklore)."
-    },
-    {
-      "source": "spirited_away",
-      "target": "the_nippon_television_network",
-      "predicate": "RELATED_TO",
-      "sentence": "It has a strong presence in the animation industry and has expanded its portfolio to include various media such as short subjects, television commercials and two television films."
-    },
-    {
-      "source": "studio_ghibli",
-      "target": "the_agency_for_cultural_affair",
-      "predicate": "RELATED_TO",
-      "sentence": "Studio Ghibli's major awards across  organizations include two Academy Awards for Best Animated Feature, one Golden Globe Award for Best Animated Feature Film, one BAFTA Award for Best Animated Film, one Golden Bear, three Animage Grand Prix awards and six Japan Academy Prizes."
-    },
-    {
-      "source": "studio_ghibli",
-      "target": "the_following_three_decade",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "studio_ghibli",
-      "target": "the_nippon_television_network",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "the_agency_for_cultural_affair",
-      "target": "the_following_three_decade",
-      "predicate": "RELATED_TO",
-      "sentence": "Studio Ghibli's major awards across  organizations include two Academy Awards for Best Animated Feature, one Golden Globe Award for Best Animated Feature Film, one BAFTA Award for Best Animated Film, one Golden Bear, three Animage Grand Prix awards and six Japan Academy Prizes."
-    },
-    {
-      "source": "the_agency_for_cultural_affair",
-      "target": "the_nippon_television_network",
-      "predicate": "RELATED_TO",
-      "sentence": "Studio Ghibli's major awards across  organizations include two Academy Awards for Best Animated Feature, one Golden Globe Award for Best Animated Feature Film, one BAFTA Award for Best Animated Film, one Golden Bear, three Animage Grand Prix awards and six Japan Academy Prizes."
-    },
-    {
-      "source": "the_agency_for_cultural_affair",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "Spirited Away was a co-recipient of the Golden Bear at the 2002 Berlin International Film Festival and became the first hand-drawn, non-English-language animated film to win the Academy Award for Best Animated Feature at the 75th Academy Awards."
-    },
-    {
-      "source": "the_following_three_decade",
-      "target": "the_nippon_television_network",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "the_following_three_decade",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "the_nippon_television_network",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "1984",
-      "target": "hayao_miyazaki",
-      "predicate": "RELATED_TO",
-      "sentence": "Nausicaä of the Valley of the Wind is a 1984 Japanese animated post-apocalyptic fantasy film written and directed by Hayao Miyazaki, based on his 1982 manga Nausicaä of the Valley of the Wind."
-    },
-    {
-      "source": "1984",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "Nausicaä of the Valley of the Wind was released in Japan on 11 March 1984."
-    },
-    {
-      "source": "1984",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Nausicaä of the Valley of the Wind is a 1984 Japanese animated post-apocalyptic fantasy film written and directed by Hayao Miyazaki, based on his 1982 manga Nausicaä of the Valley of the Wind."
-    },
-    {
-      "source": "1984",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "Nausicaä of the Valley of the Wind is a 1984 Japanese animated post-apocalyptic fantasy film written and directed by Hayao Miyazaki, based on his 1982 manga Nausicaä of the Valley of the Wind."
-    },
-    {
-      "source": "1984",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "Nausicaä of the Valley of the Wind is a 1984 Japanese animated post-apocalyptic fantasy film written and directed by Hayao Miyazaki, based on his 1982 manga Nausicaä of the Valley of the Wind."
-    },
-    {
-      "source": "between_2018_and_2025",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "Following a distribution deal struck between Tokuma Shoten and Walt Disney Studios, it was the first of Studio Ghibli's films to be released internationally and was given to Miramax Films to be dubbed into English and distributed in North America."
-    },
-    {
-      "source": "between_2018_and_2025",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Following a distribution deal struck between Tokuma Shoten and Walt Disney Studios, it was the first of Studio Ghibli's films to be released internationally and was given to Miramax Films to be dubbed into English and distributed in North America."
-    },
-    {
-      "source": "between_2018_and_2025",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "Following a distribution deal struck between Tokuma Shoten and Walt Disney Studios, it was the first of Studio Ghibli's films to be released internationally and was given to Miramax Films to be dubbed into English and distributed in North America."
-    },
-    {
-      "source": "the_boy_and_the_heron",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "He officially retired from his producer role in 2014, becoming general manager, but has remained involved in the studio's management and creative activities."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "the_nippon_television_network",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "the_boy_and_the_heron",
-      "target": "the_nippon_television_network",
-      "predicate": "RELATED_TO",
-      "sentence": "Studio Ghibli's major awards across  organizations include two Academy Awards for Best Animated Feature, one Golden Globe Award for Best Animated Feature Film, one BAFTA Award for Best Animated Film, one Golden Bear, three Animage Grand Prix awards and six Japan Academy Prizes."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "nineteenth_century",
-      "predicate": "RELATED_TO",
-      "sentence": "The film is set in a fictional kingdom where both magic and early 20th-century technology are prevalent, against the backdrop of a war with another kingdom."
-    },
-    {
-      "source": "nineteenth_century",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "The film is set in a fictional kingdom where both magic and early 20th-century technology are prevalent, against the backdrop of a war with another kingdom."
-    },
-    {
-      "source": "1986",
-      "target": "spirited_away",
-      "predicate": "RELATED_TO",
-      "sentence": "It held the record for 19 years until it was surpassed by Demon Slayer:"
-    },
-    {
-      "source": "august_2_1986",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Toshio Suzuki (Japanese: 鈴木 敏夫, Hepburn: Suzuki Toshio; born August 19, 1948) is a Japanese film producer and studio executive."
-    },
-    {
-      "source": "japan",
-      "target": "world_masterpiece_theater",
-      "predicate": "RELATED_TO",
-      "sentence": "It follows a young girl named  Chihiro \"Sen\" Ogino, who moves to a new neighborhood and inadvertently enters the world of kami (spirits of Japanese Shinto folklore)."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "world_masterpiece_theater",
-      "predicate": "RELATED_TO",
-      "sentence": "After her parents are turned into pigs by the witch Yubaba, Chihiro takes a job working in Yubaba's bathhouse to find a way to free herself and her parents and return to the human world."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "world_masterpiece_theater",
-      "predicate": "RELATED_TO",
-      "sentence": "After her parents are turned into pigs by the witch Yubaba, Chihiro takes a job working in Yubaba's bathhouse to find a way to free herself and her parents and return to the human world."
-    },
-    {
-      "source": "spirited_away",
-      "target": "world_masterpiece_theater",
-      "predicate": "RELATED_TO",
-      "sentence": "After her parents are turned into pigs by the witch Yubaba, Chihiro takes a job working in Yubaba's bathhouse to find a way to free herself and her parents and return to the human world."
-    },
-    {
-      "source": "the_mainichi_film_award",
-      "target": "world_masterpiece_theater",
-      "predicate": "RELATED_TO",
-      "sentence": "The film is widely regarded as one of the greatest animated films of all time, ranking 41st in Empire magazine's \"The 100 Best Films of World Cinema\" in 2010 and the number-one animated film on the 2012 Sight & Sound critics' poll of all-time greatest films."
-    },
-    {
-      "source": "2003",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "Released on 20 July 2013 in Japan, The Wind Rises was the highest-grossing Japanese film of 2013."
-    },
-    {
-      "source": "2003",
-      "target": "spirited_away",
-      "predicate": "RELATED_TO",
-      "sentence": "Released on 20 July 2013 in Japan, The Wind Rises was the highest-grossing Japanese film of 2013."
-    },
-    {
-      "source": "2003",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Released in Japan on 20 July 2001, Spirited Away was widely acclaimed and commercially successful, grossing US$396 million at the worldwide box office."
-    },
-    {
-      "source": "2003",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "Influenced by Miyazaki's opposition to the United States' invasion of Iraq in 2003, the film contains strong anti-war themes."
-    },
-    {
-      "source": "disney",
-      "target": "north_america",
-      "predicate": "RELATED_TO",
-      "sentence": "Pixar animator John Lasseter, a fan and friend of Miyazaki, convinced Walt Disney Studios  to buy the film's North American distribution rights, and served as executive producer of its English-dubbed version."
-    },
-    {
-      "source": "disney",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "Following a distribution deal struck between Tokuma Shoten and Walt Disney Studios, it was the first of Studio Ghibli's films to be released internationally and was given to Miramax Films to be dubbed into English and distributed in North America."
-    },
-    {
-      "source": "disney",
-      "target": "spirited_away",
-      "predicate": "RELATED_TO",
-      "sentence": "Pixar animator John Lasseter, a fan and friend of Miyazaki, convinced Walt Disney Studios  to buy the film's North American distribution rights, and served as executive producer of its English-dubbed version."
-    },
-    {
-      "source": "disney",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Pixar animator John Lasseter, a fan and friend of Miyazaki, convinced Walt Disney Studios  to buy the film's North American distribution rights, and served as executive producer of its English-dubbed version."
-    },
-    {
-      "source": "disney",
-      "target": "tokuma_shoten",
-      "predicate": "RELATED_TO",
-      "sentence": "Following a distribution deal struck between Tokuma Shoten and Walt Disney Studios, it was the first of Studio Ghibli's films to be released internationally and was given to Miramax Films to be dubbed into English and distributed in North America."
-    },
-    {
-      "source": "disney",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "An English-language version of the film was released on August 14, 2009, to 927 theatres across the U.S., the widest opening for a Studio Ghibli film in the U.S. It was produced by The Kennedy/Marshall Company and released by Walt Disney Studios Motion Pictures through their Walt Disney Pictures banner."
-    },
-    {
-      "source": "manson_international",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "Spirited Away was a co-recipient of the Golden Bear at the 2002 Berlin International Film Festival and became the first hand-drawn, non-English-language animated film to win the Academy Award for Best Animated Feature at the 75th Academy Awards."
-    },
-    {
-      "source": "manson_international",
-      "target": "spirited_away",
-      "predicate": "RELATED_TO",
-      "sentence": "Spirited Away was a co-recipient of the Golden Bear at the 2002 Berlin International Film Festival and became the first hand-drawn, non-English-language animated film to win the Academy Award for Best Animated Feature at the 75th Academy Awards."
-    },
-    {
-      "source": "manson_international",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Spirited Away was a co-recipient of the Golden Bear at the 2002 Berlin International Film Festival and became the first hand-drawn, non-English-language animated film to win the Academy Award for Best Animated Feature at the 75th Academy Awards."
-    },
-    {
-      "source": "manson_international",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "The Manson cut was derided by Miyazaki, and prompted Ghibli to establish a policy preventing future international licensors from editing its films for foreign release."
-    },
-    {
-      "source": "north_america",
-      "target": "spirited_away",
-      "predicate": "RELATED_TO",
-      "sentence": "Pixar animator John Lasseter, a fan and friend of Miyazaki, convinced Walt Disney Studios  to buy the film's North American distribution rights, and served as executive producer of its English-dubbed version."
-    },
-    {
-      "source": "north_america",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Pixar animator John Lasseter, a fan and friend of Miyazaki, convinced Walt Disney Studios  to buy the film's North American distribution rights, and served as executive producer of its English-dubbed version."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "streamline_picture",
-      "predicate": "RELATED_TO",
-      "sentence": "An English-language version of the film was released on August 14, 2009, to 927 theatres across the U.S., the widest opening for a Studio Ghibli film in the U.S. It was produced by The Kennedy/Marshall Company and released by Walt Disney Studios Motion Pictures through their Walt Disney Pictures banner."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "tokuma_shoten",
-      "predicate": "RELATED_TO",
-      "sentence": "Four of the studio's films are among the ten highest-grossing Japanese feature films; Spirited Away is fourth, grossing ¥31.68 billion in Japan and over US$380 million worldwide."
-    },
-    {
-      "source": "spirited_away",
-      "target": "streamline_picture",
-      "predicate": "RELATED_TO",
-      "sentence": "An English-language version of the film was released on August 14, 2009, to 927 theatres across the U.S., the widest opening for a Studio Ghibli film in the U.S. It was produced by The Kennedy/Marshall Company and released by Walt Disney Studios Motion Pictures through their Walt Disney Pictures banner."
-    },
-    {
-      "source": "spirited_away",
-      "target": "tokuma_shoten",
-      "predicate": "RELATED_TO",
-      "sentence": "Four of the studio's films are among the ten highest-grossing Japanese feature films; Spirited Away is fourth, grossing ¥31.68 billion in Japan and over US$380 million worldwide."
-    },
-    {
-      "source": "streamline_picture",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "An English-language version of the film was released on August 14, 2009, to 927 theatres across the U.S., the widest opening for a Studio Ghibli film in the U.S. It was produced by The Kennedy/Marshall Company and released by Walt Disney Studios Motion Pictures through their Walt Disney Pictures banner."
-    },
-    {
-      "source": "streamline_picture",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "An English-language version of the film was released on August 14, 2009, to 927 theatres across the U.S., the widest opening for a Studio Ghibli film in the U.S. It was produced by The Kennedy/Marshall Company and released by Walt Disney Studios Motion Pictures through their Walt Disney Pictures banner."
-    },
-    {
-      "source": "the_boy_and_the_heron",
-      "target": "tokuma_shoten",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
-    },
-    {
-      "source": "2003",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "Released on 20 July 2013 in Japan, The Wind Rises was the highest-grossing Japanese film of 2013."
-    },
-    {
-      "source": "2003",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Released on 20 July 2013 in Japan, The Wind Rises was the highest-grossing Japanese film of 2013."
-    },
-    {
-      "source": "joe_hisaishi",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "The score was composed by Joe Hisaishi, a longtime collaborator of Miyazaki's."
-    },
-    {
-      "source": "the_agency_for_cultural_affair",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "the_agency_for_cultural_affair",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "It held the record for 19 years until it was surpassed by Demon Slayer:"
-    },
-    {
-      "source": "diana_wynne_jone",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "He is a co-founder and the current chairman of Studio Ghibli, one of Japan's most prominent animation studios."
-    },
-    {
-      "source": "diana_wynne_jone",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "It is commonly regarded as one of the greatest animated films, and was the second-highest-ranked animation in a poll conducted by Japan's Agency for Cultural Affairs in 2006."
-    },
-    {
-      "source": "diana_wynne_jone",
-      "target": "spirited_away",
-      "predicate": "RELATED_TO",
-      "sentence": "It is commonly regarded as one of the greatest animated films, and was the second-highest-ranked animation in a poll conducted by Japan's Agency for Cultural Affairs in 2006."
-    },
-    {
-      "source": "diana_wynne_jone",
-      "target": "the_academy_award_for_best_animated_feature",
-      "predicate": "RELATED_TO",
-      "sentence": "Studio Ghibli's major awards across  organizations include two Academy Awards for Best Animated Feature, one Golden Globe Award for Best Animated Feature Film, one BAFTA Award for Best Animated Film, one Golden Bear, three Animage Grand Prix awards and six Japan Academy Prizes."
-    },
-    {
-      "source": "diana_wynne_jone",
-      "target": "the_agency_for_cultural_affair",
-      "predicate": "RELATED_TO",
-      "sentence": "Studio Ghibli's major awards across  organizations include two Academy Awards for Best Animated Feature, one Golden Globe Award for Best Animated Feature Film, one BAFTA Award for Best Animated Film, one Golden Bear, three Animage Grand Prix awards and six Japan Academy Prizes."
-    },
-    {
-      "source": "diana_wynne_jone",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "He is a co-founder and the current chairman of Studio Ghibli, one of Japan's most prominent animation studios."
-    },
-    {
-      "source": "diana_wynne_jone",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Studio Ghibli's major awards across  organizations include two Academy Awards for Best Animated Feature, one Golden Globe Award for Best Animated Feature Film, one BAFTA Award for Best Animated Film, one Golden Bear, three Animage Grand Prix awards and six Japan Academy Prizes."
-    },
-    {
-      "source": "diana_wynne_jone",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "It is commonly regarded as one of the greatest animated films, and was the second-highest-ranked animation in a poll conducted by Japan's Agency for Cultural Affairs in 2006."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "the_agency_for_cultural_affair",
-      "predicate": "RELATED_TO",
-      "sentence": "Spirited Away was a co-recipient of the Golden Bear at the 2002 Berlin International Film Festival and became the first hand-drawn, non-English-language animated film to win the Academy Award for Best Animated Feature at the 75th Academy Awards."
-    },
-    {
-      "source": "the_academy_award_for_best_animated_feature",
-      "target": "the_agency_for_cultural_affair",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "the_agency_for_cultural_affair",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
       "source": "animage",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
-    },
-    {
-      "source": "animage",
-      "target": "the_anime_grand_prix",
-      "predicate": "RELATED_TO",
-      "sentence": "Studio Ghibli's major awards across  organizations include two Academy Awards for Best Animated Feature, one Golden Globe Award for Best Animated Feature Film, one BAFTA Award for Best Animated Film, one Golden Bear, three Animage Grand Prix awards and six Japan Academy Prizes."
-    },
-    {
-      "source": "animage",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
-    },
-    {
-      "source": "animage",
-      "target": "the_fuji_nobur_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Studio Ghibli's major awards across  organizations include two Academy Awards for Best Animated Feature, one Golden Globe Award for Best Animated Feature Film, one BAFTA Award for Best Animated Film, one Golden Bear, three Animage Grand Prix awards and six Japan Academy Prizes."
-    },
-    {
-      "source": "isao_takahata",
-      "target": "the_fuji_nobur_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Spirited Away was a co-recipient of the Golden Bear at the 2002 Berlin International Film Festival and became the first hand-drawn, non-English-language animated film to win the Academy Award for Best Animated Feature at the 75th Academy Awards."
-    },
-    {
-      "source": "isao_takahata",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "The film portrays a fictionalised account of the life of Japanese aeronautical engineer Jiro Horikoshi, in particular his engineering career from his time at the University of Tokyo in 1923 to the first test flight of the Mitsubishi Ka-14 on 4 February 1935."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "the_anime_grand_prix",
-      "predicate": "RELATED_TO",
-      "sentence": "It was a major commercial success, grossing over $204 million worldwide and becoming the eighth-highest-grossing anime film of all time."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "the_fuji_nobur_award",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "the_anime_grand_prix",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Studio Ghibli's major awards across  organizations include two Academy Awards for Best Animated Feature, one Golden Globe Award for Best Animated Feature Film, one BAFTA Award for Best Animated Film, one Golden Bear, three Animage Grand Prix awards and six Japan Academy Prizes."
-    },
-    {
-      "source": "the_anime_grand_prix",
-      "target": "the_fuji_nobur_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Studio Ghibli's major awards across  organizations include two Academy Awards for Best Animated Feature, one Golden Globe Award for Best Animated Feature Film, one BAFTA Award for Best Animated Film, one Golden Bear, three Animage Grand Prix awards and six Japan Academy Prizes."
-    },
-    {
-      "source": "the_anime_grand_prix",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Studio Ghibli's major awards across  organizations include two Academy Awards for Best Animated Feature, one Golden Globe Award for Best Animated Feature Film, one BAFTA Award for Best Animated Film, one Golden Bear, three Animage Grand Prix awards and six Japan Academy Prizes."
-    },
-    {
-      "source": "the_boy_and_the_heron",
-      "target": "the_fuji_nobur_award",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "the_fuji_nobur_award",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "hakuhodo_dy_media_partner",
-      "target": "hayao_miyazaki",
-      "predicate": "RELATED_TO",
-      "sentence": "It has a strong presence in the animation industry and has expanded its portfolio to include various media such as short subjects, television commercials and two television films."
-    },
-    {
-      "source": "hakuhodo_dy_media_partner",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "It has a strong presence in the animation industry and has expanded its portfolio to include various media such as short subjects, television commercials and two television films."
-    },
-    {
-      "source": "hakuhodo_dy_media_partner",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "It has a strong presence in the animation industry and has expanded its portfolio to include various media such as short subjects, television commercials and two television films."
-    },
-    {
-      "source": "hakuhodo_dy_media_partner",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "It has a strong presence in the animation industry and has expanded its portfolio to include various media such as short subjects, television commercials and two television films."
-    },
-    {
-      "source": "1988",
       "target": "isao_takahata",
       "predicate": "RELATED_TO",
-      "sentence": "Takahata, Miyazaki and others formed Studio Ghibli in 1985, where he would direct Grave of the Fireflies (1988), Only Yesterday (1991), Pom Poko (1994), and My Neighbors the Yamadas (1999)."
-    },
-    {
-      "source": "1988",
-      "target": "japan",
-      "predicate": "RELATED_TO",
-      "sentence": "My Neighbor Totoro is a 1988 Japanese animated fantasy film written and directed by Hayao Miyazaki and animated by Studio Ghibli for Tokuma Shoten."
-    },
-    {
-      "source": "1988",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "Their mascot and most recognizable character is Totoro from the 1988 film My Neighbor Totoro, a giant spirit inspired by raccoon dogs (tanuki) and cats (neko)."
-    },
-    {
-      "source": "1988",
-      "target": "the_academy_award_for_best_animated_feature",
-      "predicate": "RELATED_TO",
-      "sentence": "My Neighbor Totoro received numerous awards, including the Animage Anime Grand Prix prize, the Mainichi Film Award, and Kinema Junpo Award for Best Film in 1988."
-    },
-    {
-      "source": "1988",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Their mascot and most recognizable character is Totoro from the 1988 film My Neighbor Totoro, a giant spirit inspired by raccoon dogs (tanuki) and cats (neko)."
-    },
-    {
-      "source": "1988",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Their mascot and most recognizable character is Totoro from the 1988 film My Neighbor Totoro, a giant spirit inspired by raccoon dogs (tanuki) and cats (neko)."
-    },
-    {
-      "source": "1988",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "Their mascot and most recognizable character is Totoro from the 1988 film My Neighbor Totoro, a giant spirit inspired by raccoon dogs (tanuki) and cats (neko)."
-    },
-    {
-      "source": "grave_of_the_fireflies",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "He played a pivotal role in the creation of Studio Ghibli and the production of its early films, including Nausicaä of the Valley of the Wind, My Neighbor Totoro, and Grave of the Fireflies."
-    },
-    {
-      "source": "isao_takahata",
-      "target": "japan",
-      "predicate": "RELATED_TO",
-      "sentence": "The film portrays a fictionalised account of the life of Japanese aeronautical engineer Jiro Horikoshi, in particular his engineering career from his time at the University of Tokyo in 1923 to the first test flight of the Mitsubishi Ka-14 on 4 February 1935."
-    },
-    {
-      "source": "japan",
-      "target": "the_fuji_nobur_award",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "the_fuji_nobur_award",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "The studio's work is highly acclaimed by both critics and audiences and has been recognized with numerous awards."
-    },
-    {
-      "source": "akemi_yamaguchi",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "The film stars Yuria Nara, Hiroki Doi, Tomoko Yamaguchi, Kazushige Nagashima, Yūki Amami, George Tokoro, Rumi Hiiragi, Akiko Yano, Kazuko Yoshiyuki and Tomoko Naraoka."
-    },
-    {
-      "source": "akemi_yamaguchi",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "The film stars Yuria Nara, Hiroki Doi, Tomoko Yamaguchi, Kazushige Nagashima, Yūki Amami, George Tokoro, Rumi Hiiragi, Akiko Yano, Kazuko Yoshiyuki and Tomoko Naraoka."
-    },
-    {
-      "source": "john_lasseter",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "Lasseter then hired Kirk Wise as director and Donald W. Ernst as producer, while screenwriters Cindy and Donald Hewitt wrote the English-language dialogue to match the characters' original Japanese-language lip movements."
-    },
-    {
-      "source": "john_lasseter",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "It was founded on June 15, 1985, by directors Hayao Miyazaki and Isao Takahata and producer Toshio Suzuki, after acquiring Topcraft's assets."
-    },
-    {
-      "source": "john_lasseter",
-      "target": "spirited_away",
-      "predicate": "RELATED_TO",
-      "sentence": "It was founded on June 15, 1985, by directors Hayao Miyazaki and Isao Takahata and producer Toshio Suzuki, after acquiring Topcraft's assets."
-    },
-    {
-      "source": "john_lasseter",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "It was founded on June 15, 1985, by directors Hayao Miyazaki and Isao Takahata and producer Toshio Suzuki, after acquiring Topcraft's assets."
-    },
-    {
-      "source": "john_lasseter",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Pixar animator John Lasseter, a fan and friend of Miyazaki, convinced Walt Disney Studios  to buy the film's North American distribution rights, and served as executive producer of its English-dubbed version."
-    },
-    {
-      "source": "john_lasseter",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "It was founded on June 15, 1985, by directors Hayao Miyazaki and Isao Takahata and producer Toshio Suzuki, after acquiring Topcraft's assets."
-    },
-    {
-      "source": "john_lasseter",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "It was founded on June 15, 1985, by directors Hayao Miyazaki and Isao Takahata and producer Toshio Suzuki, after acquiring Topcraft's assets."
-    },
-    {
-      "source": "kobe",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was originally intended to be Miyazaki's final feature film, before Miyazaki reversed his decision and eventually directed The Boy and the Heron."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "the_same_year",
-      "predicate": "RELATED_TO",
-      "sentence": "'The Wind Has Risen') is a 2013 Japanese animated historical drama film written and directed by Hayao Miyazaki based on his 2009 manga of the same name."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "the_following_three_decade",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "the_fuji_nobur_award",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2026 the Studio Ghibli was awarded the Princess of Asturias Award in the category of \"Communication and Humanities\"."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "the_same_year",
-      "predicate": "RELATED_TO",
-      "sentence": "'The Wind Has Risen') is a 2013 Japanese animated historical drama film written and directed by Hayao Miyazaki based on his 2009 manga of the same name."
-    },
-    {
-      "source": "the_agency_for_cultural_affair",
-      "target": "the_fuji_nobur_award",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "the_boy_and_the_heron",
-      "target": "the_following_three_decade",
-      "predicate": "RELATED_TO",
-      "sentence": "Studio Ghibli's major awards across  organizations include two Academy Awards for Best Animated Feature, one Golden Globe Award for Best Animated Feature Film, one BAFTA Award for Best Animated Film, one Golden Bear, three Animage Grand Prix awards and six Japan Academy Prizes."
-    },
-    {
-      "source": "the_following_three_decade",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Studio Ghibli's major awards across  organizations include two Academy Awards for Best Animated Feature, one Golden Globe Award for Best Animated Feature Film, one BAFTA Award for Best Animated Film, one Golden Bear, three Animage Grand Prix awards and six Japan Academy Prizes."
-    },
-    {
-      "source": "the_following_three_decade",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "the_fuji_nobur_award",
-      "target": "the_nippon_television_network",
-      "predicate": "RELATED_TO",
-      "sentence": "Studio Ghibli's major awards across  organizations include two Academy Awards for Best Animated Feature, one Golden Globe Award for Best Animated Feature Film, one BAFTA Award for Best Animated Film, one Golden Bear, three Animage Grand Prix awards and six Japan Academy Prizes."
-    },
-    {
-      "source": "the_fuji_nobur_award",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "Spirited Away was a co-recipient of the Golden Bear at the 2002 Berlin International Film Festival and became the first hand-drawn, non-English-language animated film to win the Academy Award for Best Animated Feature at the 75th Academy Awards."
-    },
-    {
-      "source": "the_mainichi_film_award",
-      "target": "the_nippon_television_network",
-      "predicate": "RELATED_TO",
-      "sentence": "Studio Ghibli's major awards across  organizations include two Academy Awards for Best Animated Feature, one Golden Globe Award for Best Animated Feature Film, one BAFTA Award for Best Animated Film, one Golden Bear, three Animage Grand Prix awards and six Japan Academy Prizes."
-    },
-    {
-      "source": "the_nippon_television_network",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "1988",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "My Neighbor Totoro received numerous awards, including the Animage Anime Grand Prix prize, the Mainichi Film Award, and Kinema Junpo Award for Best Film in 1988."
-    },
-    {
-      "source": "isao_takahata",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "The film portrays a fictionalised account of the life of Japanese aeronautical engineer Jiro Horikoshi, in particular his engineering career from his time at the University of Tokyo in 1923 to the first test flight of the Mitsubishi Ka-14 on 4 February 1935."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "toho",
-      "predicate": "RELATED_TO",
-      "sentence": "Produced by Studio Ghibli and distributed by Toho, the film stars the voices of Hideaki Anno, Miori Takimoto, Hidetoshi Nishijima, Masahiko Nishimura, Morio Kazama, Keiko Takeshita, Mirai Shida, Jun Kunimura, Shinobu Otake, and Nomura Mansai."
-    },
-    {
-      "source": "spirited_away",
-      "target": "toho",
-      "predicate": "RELATED_TO",
-      "sentence": "It was produced by Toshio Suzuki, animated by Studio Ghibli, and distributed by Toho."
-    },
-    {
-      "source": "the_boy_and_the_heron",
-      "target": "toho",
-      "predicate": "RELATED_TO",
-      "sentence": "Produced by Studio Ghibli and distributed by Toho, the film stars the voices of Hideaki Anno, Miori Takimoto, Hidetoshi Nishijima, Masahiko Nishimura, Morio Kazama, Keiko Takeshita, Mirai Shida, Jun Kunimura, Shinobu Otake, and Nomura Mansai."
-    },
-    {
-      "source": "toho",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "Produced by Studio Ghibli and distributed by Toho, the film stars the voices of Hideaki Anno, Miori Takimoto, Hidetoshi Nishijima, Masahiko Nishimura, Morio Kazama, Keiko Takeshita, Mirai Shida, Jun Kunimura, Shinobu Otake, and Nomura Mansai."
-    },
-    {
-      "source": "between_2018_and_2025",
-      "target": "spirited_away",
-      "predicate": "RELATED_TO",
-      "sentence": "Following a distribution deal struck between Tokuma Shoten and Walt Disney Studios, it was the first of Studio Ghibli's films to be released internationally and was given to Miramax Films to be dubbed into English and distributed in North America."
-    },
-    {
-      "source": "diana_wynne_jone",
-      "target": "japan",
-      "predicate": "RELATED_TO",
-      "sentence": "He is a co-founder and the current chairman of Studio Ghibli, one of Japan's most prominent animation studios."
-    },
-    {
-      "source": "diana_wynne_jone",
-      "target": "toei_animation",
-      "predicate": "RELATED_TO",
-      "sentence": "He is a co-founder and the current chairman of Studio Ghibli, one of Japan's most prominent animation studios."
-    },
-    {
-      "source": "diana_wynne_jone",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "It went on to gross $190 million in Japan and $46 million outside Japan, making it one of the most commercially successful Japanese films in history."
-    },
-    {
-      "source": "isao_takahata",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
       "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
     },
     {
-      "source": "japan",
-      "target": "the_nippon_television_network",
-      "predicate": "RELATED_TO",
-      "sentence": "Studio Ghibli's major awards across  organizations include two Academy Awards for Best Animated Feature, one Golden Globe Award for Best Animated Feature Film, one BAFTA Award for Best Animated Film, one Golden Bear, three Animage Grand Prix awards and six Japan Academy Prizes."
-    },
-    {
-      "source": "japan",
-      "target": "toei_animation",
-      "predicate": "RELATED_TO",
-      "sentence": "He is a co-founder and the current chairman of Studio Ghibli, one of Japan's most prominent animation studios."
-    },
-    {
-      "source": "japan",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "Toshio Suzuki (Japanese: 鈴木 敏夫, Hepburn: Suzuki Toshio; born August 19, 1948) is a Japanese film producer and studio executive."
-    },
-    {
-      "source": "the_academy_award_for_best_animated_feature",
-      "target": "the_nippon_television_network",
-      "predicate": "RELATED_TO",
-      "sentence": "Studio Ghibli's major awards across  organizations include two Academy Awards for Best Animated Feature, one Golden Globe Award for Best Animated Feature Film, one BAFTA Award for Best Animated Film, one Golden Bear, three Animage Grand Prix awards and six Japan Academy Prizes."
-    },
-    {
-      "source": "the_academy_award_for_best_animated_feature",
-      "target": "world_masterpiece_theater",
-      "predicate": "RELATED_TO",
-      "sentence": "The film is widely regarded as one of the greatest animated films of all time, ranking 41st in Empire magazine's \"The 100 Best Films of World Cinema\" in 2010 and the number-one animated film on the 2012 Sight & Sound critics' poll of all-time greatest films."
-    },
-    {
-      "source": "the_boy_and_the_heron",
-      "target": "world_masterpiece_theater",
-      "predicate": "RELATED_TO",
-      "sentence": "After her parents are turned into pigs by the witch Yubaba, Chihiro takes a job working in Yubaba's bathhouse to find a way to free herself and her parents and return to the human world."
-    },
-    {
-      "source": "the_mainichi_film_award",
-      "target": "toei_animation",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "the_nippon_television_network",
-      "target": "toei_animation",
-      "predicate": "RELATED_TO",
-      "sentence": "It has a strong presence in the animation industry and has expanded its portfolio to include various media such as short subjects, television commercials and two television films."
-    },
-    {
-      "source": "the_nippon_television_network",
-      "target": "world_masterpiece_theater",
-      "predicate": "RELATED_TO",
-      "sentence": "He retired from feature films in 2013 but later returned to make The Boy and the Heron (2023), which won the Academy Award for Best Animated Feature.\nMiyazaki's works are frequently subject to scholarly analysis and have been characterized by the recurrence of themes such as humanity's relationship with nature and technology, the importance of art and craftsmanship, and the difficulty of maintaining a pacifist ethic in a violent world."
-    },
-    {
-      "source": "toei_animation",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
-    },
-    {
-      "source": "toshio_suzuki",
-      "target": "world_masterpiece_theater",
-      "predicate": "RELATED_TO",
-      "sentence": "After her parents are turned into pigs by the witch Yubaba, Chihiro takes a job working in Yubaba's bathhouse to find a way to free herself and her parents and return to the human world."
-    },
-    {
-      "source": "visby",
-      "target": "world_masterpiece_theater",
-      "predicate": "RELATED_TO",
-      "sentence": "After her parents are turned into pigs by the witch Yubaba, Chihiro takes a job working in Yubaba's bathhouse to find a way to free herself and her parents and return to the human world."
-    },
-    {
-      "source": "japan",
-      "target": "my_neighbor_totoro",
-      "predicate": "RELATED_TO",
-      "sentence": "Totoro also serves as the mascot for Studio Ghibli and is recognized as one of the most popular characters in Japanese animation."
-    },
-    {
-      "source": "my_neighbor_totoro",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "porco_rosso",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "porco_rosso",
-      "target": "spirited_away",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "porco_rosso",
+      "source": "animage",
       "target": "studio_ghibli",
       "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
+      "sentence": "Studio Ghibli's major awards across  organizations include two Academy Awards for Best Animated Feature, one Golden Globe Award for Best Animated Feature Film, one BAFTA Award for Best Animated Film, one Golden Bear, three Animage Grand Prix awards and six Japan Academy Prizes."
     },
     {
-      "source": "porco_rosso",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "diana_wynne_jone",
-      "target": "hayao_miyazaki",
-      "predicate": "RELATED_TO",
-      "sentence": "He has been associated with director and animator Hayao Miyazaki since 1984, having written scores for all but one of Miyazaki's films."
-    },
-    {
-      "source": "hayao_miyazaki",
+      "source": "animage",
       "target": "toei_animation",
       "predicate": "RELATED_TO",
       "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
     },
     {
-      "source": "japan",
-      "target": "manson_international",
-      "predicate": "RELATED_TO",
-      "sentence": "An English dub was produced by Streamline Pictures for Japan Airlines international flights in 1989."
-    },
-    {
-      "source": "manson_international",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "Spirited Away was a co-recipient of the Golden Bear at the 2002 Berlin International Film Festival and became the first hand-drawn, non-English-language animated film to win the Academy Award for Best Animated Feature at the 75th Academy Awards."
-    },
-    {
-      "source": "manson_international",
-      "target": "the_academy_award_for_best_animated_feature",
-      "predicate": "RELATED_TO",
-      "sentence": "Spirited Away was a co-recipient of the Golden Bear at the 2002 Berlin International Film Festival and became the first hand-drawn, non-English-language animated film to win the Academy Award for Best Animated Feature at the 75th Academy Awards."
-    },
-    {
-      "source": "manson_international",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Spirited Away was a co-recipient of the Golden Bear at the 2002 Berlin International Film Festival and became the first hand-drawn, non-English-language animated film to win the Academy Award for Best Animated Feature at the 75th Academy Awards."
-    },
-    {
-      "source": "manson_international",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "Spirited Away was a co-recipient of the Golden Bear at the 2002 Berlin International Film Festival and became the first hand-drawn, non-English-language animated film to win the Academy Award for Best Animated Feature at the 75th Academy Awards."
-    },
-    {
-      "source": "princess_mononoke",
+      "source": "isao_takahata",
       "target": "toei_animation",
       "predicate": "RELATED_TO",
-      "sentence": "It has a strong presence in the animation industry and has expanded its portfolio to include various media such as short subjects, television commercials and two television films."
-    },
-    {
-      "source": "an_early_age",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "He played a pivotal role in the creation of Studio Ghibli and the production of its early films, including Nausicaä of the Valley of the Wind, My Neighbor Totoro, and Grave of the Fireflies."
-    },
-    {
-      "source": "an_early_age",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "He played a pivotal role in the creation of Studio Ghibli and the production of its early films, including Nausicaä of the Valley of the Wind, My Neighbor Totoro, and Grave of the Fireflies."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "tokyo",
-      "predicate": "RELATED_TO",
-      "sentence": "The film portrays a fictionalised account of the life of Japanese aeronautical engineer Jiro Horikoshi, in particular his engineering career from his time at the University of Tokyo in 1923 to the first test flight of the Mitsubishi Ka-14 on 4 February 1935."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "tokyo_movie_shinsha",
-      "predicate": "RELATED_TO",
-      "sentence": "The film portrays a fictionalised account of the life of Japanese aeronautical engineer Jiro Horikoshi, in particular his engineering career from his time at the University of Tokyo in 1923 to the first test flight of the Mitsubishi Ka-14 on 4 February 1935."
-    },
-    {
-      "source": "the_agency_for_cultural_affair",
-      "target": "toei_animation",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "the_boy_and_the_heron",
-      "target": "tokyo_movie_shinsha",
-      "predicate": "RELATED_TO",
-      "sentence": "It won several other awards, including four Tokyo Anime Awards and a Nebula Award for Best Script."
-    },
-    {
-      "source": "toei_animation",
-      "target": "tokyo_movie_shinsha",
-      "predicate": "RELATED_TO",
-      "sentence": "Studio Ghibli Inc. (Japanese: 株式会社スタジオジブリ, Hepburn: Kabushiki-gaisha Sutajio Jiburi) is a Japanese animation studio based in Koganei, Tokyo."
-    },
-    {
-      "source": "tokyo",
-      "target": "tokyo_movie_shinsha",
-      "predicate": "RELATED_TO",
-      "sentence": "The film portrays a fictionalised account of the life of Japanese aeronautical engineer Jiro Horikoshi, in particular his engineering career from his time at the University of Tokyo in 1923 to the first test flight of the Mitsubishi Ka-14 on 4 February 1935."
-    },
-    {
-      "source": "departure",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "Though it was released before Studio Ghibli was founded, it is often considered a Ghibli work due to its themes, and is usually released as part of DVD and Blu-ray collections of Ghibli work."
-    },
-    {
-      "source": "departure",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Though it was released before Studio Ghibli was founded, it is often considered a Ghibli work due to its themes, and is usually released as part of DVD and Blu-ray collections of Ghibli work."
-    },
-    {
-      "source": "departure",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "He composed the score for the Oscar-winning film Departures (2008)."
-    },
-    {
-      "source": "departure",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "Though it was released before Studio Ghibli was founded, it is often considered a Ghibli work due to its themes, and is usually released as part of DVD and Blu-ray collections of Ghibli work."
-    },
-    {
-      "source": "howl_s_moving_castle_film",
-      "target": "porco_rosso",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "lupin",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "Miyazaki altered the story, adding new scenes to emphasize the theme of independence and growing up."
-    },
-    {
-      "source": "lupin",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Miyazaki altered the story, adding new scenes to emphasize the theme of independence and growing up."
-    },
-    {
-      "source": "lupin",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "Miyazaki altered the story, adding new scenes to emphasize the theme of independence and growing up."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "sunao_katabuchi",
-      "predicate": "RELATED_TO",
-      "sentence": "Miyazaki initially worked as producer, but took over directing from Sunao Katabuchi as he became more involved in the project."
-    },
-    {
-      "source": "porco_rosso",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "porco_rosso",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "porco_rosso",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "sunao_katabuchi",
-      "predicate": "RELATED_TO",
-      "sentence": "Miyazaki initially worked as producer, but took over directing from Sunao Katabuchi as he became more involved in the project."
-    },
-    {
-      "source": "the_great_adventure_of_horu",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "He worked as an assistant director, holding various positions over the years and collaborating with colleague Hayao Miyazaki on Nausicaä of the Valley of the Wind (1984) and Castle in the Sky (1986), eventually directing his own film, The Great Adventure of Horus, Prince of the Sun (1968)."
-    },
-    {
-      "source": "howl_s_moving_castle_film",
-      "target": "the_nippon_television_network",
-      "predicate": "RELATED_TO",
-      "sentence": "It stars the voices of Noriko Hidaka, Chika Sakamoto and Hitoshi Takagi, and focuses on two young sisters who, after moving with their father to the countryside, experience interactions with friendly wood spirits in postwar Japan."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "nippon_animation",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "nippon_animation",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "nippon_animation",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "It was animated by Studio Ghibli for the Nippon Television Network, Dentsu, Hakuhodo DY Media Partners, Buena Vista Home Entertainment, Mitsubishi, and distributed by Toho."
-    },
-    {
-      "source": "nippon_animation",
-      "target": "the_nippon_television_network",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "nippon_animation",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "1984",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "Nausicaä of the Valley of the Wind was released in Japan on 11 March 1984."
-    },
-    {
-      "source": "1984",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Nausicaä of the Valley of the Wind is a 1984 Japanese animated post-apocalyptic fantasy film written and directed by Hayao Miyazaki, based on his 1982 manga Nausicaä of the Valley of the Wind."
-    },
-    {
-      "source": "the_boy_and_the_heron",
-      "target": "topcraft",
-      "predicate": "RELATED_TO",
-      "sentence": "It was founded on June 15, 1985, by directors Hayao Miyazaki and Isao Takahata and producer Toshio Suzuki, after acquiring Topcraft's assets."
-    },
-    {
-      "source": "topcraft",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "It was founded on June 15, 1985, by directors Hayao Miyazaki and Isao Takahata and producer Toshio Suzuki, after acquiring Topcraft's assets."
-    },
-    {
-      "source": "1985",
-      "target": "hayao_miyazaki",
-      "predicate": "RELATED_TO",
-      "sentence": "It was founded on June 15, 1985, by directors Hayao Miyazaki and Isao Takahata and producer Toshio Suzuki, after acquiring Topcraft's assets."
-    },
-    {
-      "source": "1985",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "It was founded on June 15, 1985, by directors Hayao Miyazaki and Isao Takahata and producer Toshio Suzuki, after acquiring Topcraft's assets."
-    },
-    {
-      "source": "1985",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "It was founded on June 15, 1985, by directors Hayao Miyazaki and Isao Takahata and producer Toshio Suzuki, after acquiring Topcraft's assets."
-    },
-    {
-      "source": "1988",
-      "target": "hayao_miyazaki",
-      "predicate": "RELATED_TO",
-      "sentence": "My Neighbor Totoro is a 1988 Japanese animated fantasy film written and directed by Hayao Miyazaki and animated by Studio Ghibli for Tokuma Shoten."
-    },
-    {
-      "source": "1988",
-      "target": "my_neighbor_totoro",
-      "predicate": "RELATED_TO",
-      "sentence": "Their mascot and most recognizable character is Totoro from the 1988 film My Neighbor Totoro, a giant spirit inspired by raccoon dogs (tanuki) and cats (neko)."
-    },
-    {
-      "source": "1988",
-      "target": "studio_ghibli",
-      "predicate": "RELATED_TO",
-      "sentence": "My Neighbor Totoro is a 1988 Japanese animated fantasy film written and directed by Hayao Miyazaki and animated by Studio Ghibli for Tokuma Shoten."
-    },
-    {
-      "source": "1989",
-      "target": "japan",
-      "predicate": "RELATED_TO",
-      "sentence": "An English dub was produced by Streamline Pictures for Japan Airlines international flights in 1989."
-    },
-    {
-      "source": "1989",
-      "target": "kiki_s_delivery_service",
-      "predicate": "RELATED_TO",
-      "sentence": "Kiki's Delivery Service was released in Japan on July 29, 1989, by Toei."
-    },
-    {
-      "source": "1989",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "An English dub was produced by Streamline Pictures for Japan Airlines international flights in 1989."
-    },
-    {
-      "source": "1989",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "An English dub was produced by Streamline Pictures for Japan Airlines international flights in 1989."
-    },
-    {
-      "source": "japan",
-      "target": "kiki_s_delivery_service",
-      "predicate": "RELATED_TO",
-      "sentence": "Kiki's Delivery Service was released in Japan on July 29, 1989, by Toei."
-    },
-    {
-      "source": "japan",
-      "target": "porco_rosso",
-      "predicate": "RELATED_TO",
-      "sentence": "He is a co-founder and the current chairman of Studio Ghibli, one of Japan's most prominent animation studios."
-    },
-    {
-      "source": "japan",
-      "target": "studio_ghibli",
-      "predicate": "RELATED_TO",
-      "sentence": "He is a co-founder and the current chairman of Studio Ghibli, one of Japan's most prominent animation studios."
-    },
-    {
-      "source": "kiki_s_delivery_service",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "kiki_s_delivery_service",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "kiki_s_delivery_service",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "kiki_s_delivery_service",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "my_neighbor_totoro",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "my_neighbor_totoro",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "1997",
-      "target": "japan",
-      "predicate": "RELATED_TO",
-      "sentence": "Princess Mononoke was theatrically released in Japan on July 12, 1997, and broke several box office records."
-    },
-    {
-      "source": "1997",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "Among the studio's highest-grossing films are Princess Mononoke (1997), Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), and The Boy and the Heron (2023)."
-    },
-    {
-      "source": "1997",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "Among the studio's highest-grossing films are Princess Mononoke (1997), Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), and The Boy and the Heron (2023)."
-    },
-    {
-      "source": "1997",
-      "target": "spirited_away",
-      "predicate": "RELATED_TO",
-      "sentence": "Among the studio's highest-grossing films are Princess Mononoke (1997), Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), and The Boy and the Heron (2023)."
-    },
-    {
-      "source": "1997",
-      "target": "studio_ghibli",
-      "predicate": "RELATED_TO",
-      "sentence": "Among the studio's highest-grossing films are Princess Mononoke (1997), Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), and The Boy and the Heron (2023)."
-    },
-    {
-      "source": "1997",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Among the studio's highest-grossing films are Princess Mononoke (1997), Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), and The Boy and the Heron (2023)."
-    },
-    {
-      "source": "1997",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Among the studio's highest-grossing films are Princess Mononoke (1997), Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), and The Boy and the Heron (2023)."
-    },
-    {
-      "source": "1997",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "The Walt Disney Studios produced an English dub in 1997, which became the first film under a deal between Tokuma and Disney to be released in English."
-    },
-    {
-      "source": "hayao_miyazaki",
-      "target": "the_year",
-      "predicate": "RELATED_TO",
-      "sentence": "Miyazaki wrote the screenplay after he decided the film would be based on the ten-year-old daughter of his friend Seiji Okuda, the film's associate producer, who came to visit his house each summer."
-    },
-    {
-      "source": "japan",
-      "target": "the_agency_for_cultural_affair",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "the_year",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "the_year",
-      "predicate": "RELATED_TO",
-      "sentence": "Miyazaki wrote the screenplay after he decided the film would be based on the ten-year-old daughter of his friend Seiji Okuda, the film's associate producer, who came to visit his house each summer."
-    },
-    {
-      "source": "spirited_away",
-      "target": "the_year",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "streamline_picture",
-      "target": "the_agency_for_cultural_affair",
-      "predicate": "RELATED_TO",
-      "sentence": "An English-language version of the film was released on August 14, 2009, to 927 theatres across the U.S., the widest opening for a Studio Ghibli film in the U.S. It was produced by The Kennedy/Marshall Company and released by Walt Disney Studios Motion Pictures through their Walt Disney Pictures banner."
-    },
-    {
-      "source": "the_agency_for_cultural_affair",
-      "target": "the_year",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "the_boy_and_the_heron",
-      "target": "the_year",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "the_mainichi_film_award",
-      "target": "the_year",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "the_year",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "Miyazaki wrote the screenplay after he decided the film would be based on the ten-year-old daughter of his friend Seiji Okuda, the film's associate producer, who came to visit his house each summer."
-    },
-    {
-      "source": "2001",
-      "target": "japan",
-      "predicate": "RELATED_TO",
-      "sentence": "Released in Japan on 20 July 2001, Spirited Away was widely acclaimed and commercially successful, grossing US$396 million at the worldwide box office."
-    },
-    {
-      "source": "2001",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "Among the studio's highest-grossing films are Princess Mononoke (1997), Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), and The Boy and the Heron (2023)."
-    },
-    {
-      "source": "2001",
-      "target": "spirited_away",
-      "predicate": "RELATED_TO",
-      "sentence": "Among the studio's highest-grossing films are Princess Mononoke (1997), Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), and The Boy and the Heron (2023)."
-    },
-    {
-      "source": "2001",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Among the studio's highest-grossing films are Princess Mononoke (1997), Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), and The Boy and the Heron (2023)."
-    },
-    {
-      "source": "2001",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Among the studio's highest-grossing films are Princess Mononoke (1997), Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), and The Boy and the Heron (2023)."
-    },
-    {
-      "source": "2004",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "Among the studio's highest-grossing films are Princess Mononoke (1997), Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), and The Boy and the Heron (2023)."
-    },
-    {
-      "source": "2004",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Among the studio's highest-grossing films are Princess Mononoke (1997), Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), and The Boy and the Heron (2023)."
-    },
-    {
-      "source": "2004",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Among the studio's highest-grossing films are Princess Mononoke (1997), Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), and The Boy and the Heron (2023)."
-    },
-    {
-      "source": "2008",
-      "target": "ponyo",
-      "predicate": "RELATED_TO",
-      "sentence": "Among the studio's highest-grossing films are Princess Mononoke (1997), Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), and The Boy and the Heron (2023)."
-    },
-    {
-      "source": "2008",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Among the studio's highest-grossing films are Princess Mononoke (1997), Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), and The Boy and the Heron (2023)."
-    },
-    {
-      "source": "2008",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Among the studio's highest-grossing films are Princess Mononoke (1997), Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), and The Boy and the Heron (2023)."
-    },
-    {
-      "source": "2013",
-      "target": "hayao_miyazaki",
-      "predicate": "RELATED_TO",
-      "sentence": "'The Wind Has Risen') is a 2013 Japanese animated historical drama film written and directed by Hayao Miyazaki based on his 2009 manga of the same name."
-    },
-    {
-      "source": "2013",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "Released on 20 July 2013 in Japan, The Wind Rises was the highest-grossing Japanese film of 2013."
-    },
-    {
-      "source": "2013",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "'The Wind Has Risen') is a 2013 Japanese animated historical drama film written and directed by Hayao Miyazaki based on his 2009 manga of the same name."
-    },
-    {
-      "source": "2013",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Released on 20 July 2013 in Japan, The Wind Rises was the highest-grossing Japanese film of 2013."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "ponyo",
-      "predicate": "RELATED_TO",
-      "sentence": "Among the studio's highest-grossing films are Princess Mononoke (1997), Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), and The Boy and the Heron (2023)."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "the_wind_rises",
-      "predicate": "RELATED_TO",
-      "sentence": "Released on 20 July 2013 in Japan, The Wind Rises was the highest-grossing Japanese film of 2013."
-    },
-    {
-      "source": "ponyo",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Among the studio's highest-grossing films are Princess Mononoke (1997), Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), and The Boy and the Heron (2023)."
-    },
-    {
-      "source": "2013",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "Released on 20 July 2013 in Japan, The Wind Rises was the highest-grossing Japanese film of 2013."
-    },
-    {
-      "source": "2013",
-      "target": "the_academy_award_for_best_animated_feature",
-      "predicate": "RELATED_TO",
-      "sentence": "'The Wind Has Risen') is a 2013 Japanese animated historical drama film written and directed by Hayao Miyazaki based on his 2009 manga of the same name."
-    },
-    {
-      "source": "2013",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "'The Wind Has Risen') is a 2013 Japanese animated historical drama film written and directed by Hayao Miyazaki based on his 2009 manga of the same name."
-    },
-    {
-      "source": "2023",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "2023",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2023, following the acquisition of Studio Ghibli by Nippon Television Holdings, Suzuki became chairman."
-    },
-    {
-      "source": "hayao_miyazaki",
-      "target": "the_fuji_nobur_award",
-      "predicate": "RELATED_TO",
-      "sentence": "The studio's work is highly acclaimed by both critics and audiences and has been recognized with numerous awards."
-    },
-    {
-      "source": "heidi_girl_of_the_alp",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "It follows a young girl named  Chihiro \"Sen\" Ogino, who moves to a new neighborhood and inadvertently enters the world of kami (spirits of Japanese Shinto folklore)."
-    },
-    {
-      "source": "heidi_girl_of_the_alp",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "It follows a young girl named  Chihiro \"Sen\" Ogino, who moves to a new neighborhood and inadvertently enters the world of kami (spirits of Japanese Shinto folklore)."
-    },
-    {
-      "source": "heidi_girl_of_the_alp",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Set in the Muromachi period of Japanese history, the film follows Ashitaka, a young Emishi prince who journeys west to cure his cursed arm and becomes embroiled in the conflict between the forest of the gods and a nearby town, as well as the feud between Lady Eboshi, the town's leader, and San, a human girl raised by wolves."
-    },
-    {
-      "source": "heidi_girl_of_the_alp",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "It follows a young girl named  Chihiro \"Sen\" Ogino, who moves to a new neighborhood and inadvertently enters the world of kami (spirits of Japanese Shinto folklore)."
-    },
-    {
-      "source": "my_neighbor_totoro",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "2012",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "Princess Mononoke was theatrically released in Japan on July 12, 1997, and broke several box office records."
-    },
-    {
-      "source": "2012",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "Princess Mononoke was theatrically released in Japan on July 12, 1997, and broke several box office records."
-    },
-    {
-      "source": "2014",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "He officially retired from his producer role in 2014, becoming general manager, but has remained involved in the studio's management and creative activities."
-    },
-    {
-      "source": "2014",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "He officially retired from his producer role in 2014, becoming general manager, but has remained involved in the studio's management and creative activities."
-    },
-    {
-      "source": "2014",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "He officially retired from his producer role in 2014, becoming general manager, but has remained involved in the studio's management and creative activities."
-    },
-    {
-      "source": "2014",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "He officially retired from his producer role in 2014, becoming general manager, but has remained involved in the studio's management and creative activities."
-    },
-    {
-      "source": "the_100_best_films_of_world_cinema",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "The film is widely regarded as one of the greatest animated films of all time, ranking 41st in Empire magazine's \"The 100 Best Films of World Cinema\" in 2010 and the number-one animated film on the 2012 Sight & Sound critics' poll of all-time greatest films."
-    },
-    {
-      "source": "2004",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "Among the studio's highest-grossing films are Princess Mononoke (1997), Spirited Away (2001), Howl's Moving Castle (2004), Ponyo (2008), and The Boy and the Heron (2023)."
+      "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
     },
     {
       "source": "studio_ghibli",
-      "target": "toho",
+      "target": "toei_animation",
+      "predicate": "RELATED_TO",
+      "sentence": "He is a co-founder and the current chairman of Studio Ghibli, one of Japan's most prominent animation studios."
+    },
+    {
+      "source": "kiki_s_delivery_service",
+      "target": "streamline_pictures",
       "predicate": "RELATED_TO",
       "sentence": "Produced by Studio Ghibli and distributed by Toho, the film stars the voices of Hideaki Anno, Miori Takimoto, Hidetoshi Nishijima, Masahiko Nishimura, Morio Kazama, Keiko Takeshita, Mirai Shida, Jun Kunimura, Shinobu Otake, and Nomura Mansai."
     },
     {
-      "source": "the_academy_award_for_best_animated_feature",
-      "target": "toho",
+      "source": "howl_s_moving_castle_film",
+      "target": "studio_ghibli",
       "predicate": "RELATED_TO",
-      "sentence": "It was produced by Toshio Suzuki, animated by Studio Ghibli, and distributed by Toho."
-    },
-    {
-      "source": "toho",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "It was produced by Toshio Suzuki, animated by Studio Ghibli, and distributed by Toho."
-    },
-    {
-      "source": "an_early_age",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "He played a pivotal role in the creation of Studio Ghibli and the production of its early films, including Nausicaä of the Valley of the Wind, My Neighbor Totoro, and Grave of the Fireflies."
-    },
-    {
-      "source": "an_early_age",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "He played a pivotal role in the creation of Studio Ghibli and the production of its early films, including Nausicaä of the Valley of the Wind, My Neighbor Totoro, and Grave of the Fireflies."
-    },
-    {
-      "source": "buena_vista_home_entertainment",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "It follows a young girl named  Chihiro \"Sen\" Ogino, who moves to a new neighborhood and inadvertently enters the world of kami (spirits of Japanese Shinto folklore)."
-    },
-    {
-      "source": "buena_vista_home_entertainment",
-      "target": "spirited_away",
-      "predicate": "RELATED_TO",
-      "sentence": "It follows a young girl named  Chihiro \"Sen\" Ogino, who moves to a new neighborhood and inadvertently enters the world of kami (spirits of Japanese Shinto folklore)."
-    },
-    {
-      "source": "buena_vista_home_entertainment",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "It follows a young girl named  Chihiro \"Sen\" Ogino, who moves to a new neighborhood and inadvertently enters the world of kami (spirits of Japanese Shinto folklore)."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "the_united_states",
-      "predicate": "RELATED_TO",
-      "sentence": "It received a broadly positive critical response in both Japan and the United States and earned a number of major Japanese accolades, including top awards at the Mainichi Film Awards and the Japan Academy Film Prize."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "the_united_states",
-      "predicate": "RELATED_TO",
-      "sentence": "It received a broadly positive critical response in both Japan and the United States and earned a number of major Japanese accolades, including top awards at the Mainichi Film Awards and the Japan Academy Film Prize."
-    },
-    {
-      "source": "the_fuji_nobur_award",
-      "target": "the_united_states",
-      "predicate": "RELATED_TO",
-      "sentence": "It received a broadly positive critical response in both Japan and the United States and earned a number of major Japanese accolades, including top awards at the Mainichi Film Awards and the Japan Academy Film Prize."
-    },
-    {
-      "source": "the_mainichi_film_award",
-      "target": "the_united_states",
-      "predicate": "RELATED_TO",
-      "sentence": "It received a broadly positive critical response in both Japan and the United States and earned a number of major Japanese accolades, including top awards at the Mainichi Film Awards and the Japan Academy Film Prize."
-    },
-    {
-      "source": "the_united_states",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "A heavily edited version of the film created by Manson International, titled Warriors of the Wind, was released in the United States and other markets throughout the mid-to-late 1980s."
-    },
-    {
-      "source": "hayao_miyazaki",
-      "target": "kobe",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was originally intended to be Miyazaki's final feature film, before Miyazaki reversed his decision and eventually directed The Boy and the Heron."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "sumi_shimamoto",
-      "predicate": "RELATED_TO",
-      "sentence": "Set in a post-nuclear futuristic world, it tells the story of Nausicaä (Shimamoto), the pacifist teenage princess of the Valley of the Wind who becomes embroiled in a struggle with Tolmekia, an empire that attempts to use an ancient weapon to eradicate a jungle populated by oversized, mutant insects."
-    },
-    {
-      "source": "five_year_old",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "Miyazaki wrote the screenplay after he decided the film would be based on the ten-year-old daughter of his friend Seiji Okuda, the film's associate producer, who came to visit his house each summer."
-    },
-    {
-      "source": "2003",
-      "target": "japan",
-      "predicate": "RELATED_TO",
-      "sentence": "Released on 20 July 2013 in Japan, The Wind Rises was the highest-grossing Japanese film of 2013."
-    },
-    {
-      "source": "isao_takahata",
-      "target": "the_agency_for_cultural_affair",
-      "predicate": "RELATED_TO",
-      "sentence": "Spirited Away was a co-recipient of the Golden Bear at the 2002 Berlin International Film Festival and became the first hand-drawn, non-English-language animated film to win the Academy Award for Best Animated Feature at the 75th Academy Awards."
-    },
-    {
-      "source": "spirited_away",
-      "target": "the_anime_grand_prix",
-      "predicate": "RELATED_TO",
-      "sentence": "It was a major commercial success, grossing over $204 million worldwide and becoming the eighth-highest-grossing anime film of all time."
-    },
-    {
-      "source": "the_academy_award_for_best_animated_feature",
-      "target": "the_anime_grand_prix",
-      "predicate": "RELATED_TO",
-      "sentence": "Studio Ghibli's major awards across  organizations include two Academy Awards for Best Animated Feature, one Golden Globe Award for Best Animated Feature Film, one BAFTA Award for Best Animated Film, one Golden Bear, three Animage Grand Prix awards and six Japan Academy Prizes."
-    },
-    {
-      "source": "the_agency_for_cultural_affair",
-      "target": "the_anime_grand_prix",
-      "predicate": "RELATED_TO",
-      "sentence": "Studio Ghibli's major awards across  organizations include two Academy Awards for Best Animated Feature, one Golden Globe Award for Best Animated Feature Film, one BAFTA Award for Best Animated Film, one Golden Bear, three Animage Grand Prix awards and six Japan Academy Prizes."
-    },
-    {
-      "source": "between_2018_and_2025",
-      "target": "japan",
-      "predicate": "RELATED_TO",
-      "sentence": "Set in the Muromachi period of Japanese history, the film follows Ashitaka, a young Emishi prince who journeys west to cure his cursed arm and becomes embroiled in the conflict between the forest of the gods and a nearby town, as well as the feud between Lady Eboshi, the town's leader, and San, a human girl raised by wolves."
+      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
     },
     {
       "source": "japan",
-      "target": "october_29_1935_april_5_2018",
+      "target": "toei_animation",
       "predicate": "RELATED_TO",
-      "sentence": "The film portrays a fictionalised account of the life of Japanese aeronautical engineer Jiro Horikoshi, in particular his engineering career from his time at the University of Tokyo in 1923 to the first test flight of the Mitsubishi Ka-14 on 4 February 1935."
+      "sentence": "He is a co-founder and the current chairman of Studio Ghibli, one of Japan's most prominent animation studios."
     },
     {
-      "source": "manson_international",
+      "source": "animage",
+      "target": "nausica_of_the_valley_of_the_wind_film",
+      "predicate": "RELATED_TO",
+      "sentence": "'The Wind Has Risen') is a 2013 Japanese animated historical drama film written and directed by Hayao Miyazaki based on his 2009 manga of the same name."
+    },
+    {
+      "source": "hayao_miyazaki",
+      "target": "toei_animation",
+      "predicate": "RELATED_TO",
+      "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
+    },
+    {
+      "source": "howl_s_moving_castle_film",
+      "target": "princess_mononoke",
+      "predicate": "RELATED_TO",
+      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
+    },
+    {
+      "source": "japan",
       "target": "studio_ghibli",
       "predicate": "RELATED_TO",
-      "sentence": "Following a distribution deal struck between Tokuma Shoten and Walt Disney Studios, it was the first of Studio Ghibli's films to be released internationally and was given to Miramax Films to be dubbed into English and distributed in North America."
+      "sentence": "He is a co-founder and the current chairman of Studio Ghibli, one of Japan's most prominent animation studios."
     },
     {
-      "source": "manson_international",
-      "target": "the_agency_for_cultural_affair",
+      "source": "kiki_s_delivery_service",
+      "target": "studio_ghibli",
+      "predicate": "RELATED_TO",
+      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
+    },
+    {
+      "source": "animage",
+      "target": "japan",
+      "predicate": "RELATED_TO",
+      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
+    },
+    {
+      "source": "animage",
+      "target": "princess_mononoke",
       "predicate": "RELATED_TO",
       "sentence": "Spirited Away was a co-recipient of the Golden Bear at the 2002 Berlin International Film Festival and became the first hand-drawn, non-English-language animated film to win the Academy Award for Best Animated Feature at the 75th Academy Awards."
+    },
+    {
+      "source": "nausica_of_the_valley_of_the_wind_film",
+      "target": "princess_mononoke",
+      "predicate": "RELATED_TO",
+      "sentence": "Spirited Away was a co-recipient of the Golden Bear at the 2002 Berlin International Film Festival and became the first hand-drawn, non-English-language animated film to win the Academy Award for Best Animated Feature at the 75th Academy Awards."
+    },
+    {
+      "source": "princess_mononoke",
+      "target": "studio_ghibli",
+      "predicate": "RELATED_TO",
+      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
+    },
+    {
+      "source": "streamline_pictures",
+      "target": "studio_ghibli",
+      "predicate": "RELATED_TO",
+      "sentence": "Produced by Studio Ghibli and distributed by Toho, the film stars the voices of Hideaki Anno, Miori Takimoto, Hidetoshi Nishijima, Masahiko Nishimura, Morio Kazama, Keiko Takeshita, Mirai Shida, Jun Kunimura, Shinobu Otake, and Nomura Mansai."
+    },
+    {
+      "source": "japan",
+      "target": "spirited_away",
+      "predicate": "RELATED_TO",
+      "sentence": "Four of the studio's films are among the ten highest-grossing Japanese feature films; Spirited Away is fourth, grossing ¥31.68 billion in Japan and over US$380 million worldwide."
+    },
+    {
+      "source": "animage",
+      "target": "toshio_suzuki",
+      "predicate": "RELATED_TO",
+      "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
+    },
+    {
+      "source": "toei_animation",
+      "target": "toshio_suzuki",
+      "predicate": "RELATED_TO",
+      "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
     },
     {
       "source": "hayao_miyazaki",
@@ -3532,370 +550,22 @@
       "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
     },
     {
-      "source": "isao_takahata",
-      "target": "my_neighbor_totoro",
-      "predicate": "RELATED_TO",
-      "sentence": "My Neighbor Totoro received worldwide critical acclaim, and grossed over $41 million worldwide at the box office; the film also grossed significantly more from home video sales and merchandise."
-    },
-    {
-      "source": "hepburn",
-      "target": "japan",
-      "predicate": "RELATED_TO",
-      "sentence": "Toshio Suzuki (Japanese: 鈴木 敏夫, Hepburn: Suzuki Toshio; born August 19, 1948) is a Japanese film producer and studio executive."
-    },
-    {
-      "source": "joe_hisaishi",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "Joe Hisaishi, in his first collaboration with Miyazaki, composed the score."
-    },
-    {
-      "source": "the_boy_and_the_heron",
-      "target": "tsunehiko_kamij",
-      "predicate": "RELATED_TO",
-      "sentence": "It follows a young girl named  Chihiro \"Sen\" Ogino, who moves to a new neighborhood and inadvertently enters the world of kami (spirits of Japanese Shinto folklore)."
-    },
-    {
-      "source": "toshio_suzuki",
-      "target": "tsunehiko_kamij",
-      "predicate": "RELATED_TO",
-      "sentence": "It follows a young girl named  Chihiro \"Sen\" Ogino, who moves to a new neighborhood and inadvertently enters the world of kami (spirits of Japanese Shinto folklore)."
-    },
-    {
-      "source": "1989",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "An English dub was produced by Streamline Pictures for Japan Airlines international flights in 1989."
-    },
-    {
-      "source": "keiko_yokozawa",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "Produced by Studio Ghibli and distributed by Toho, the film stars the voices of Hideaki Anno, Miori Takimoto, Hidetoshi Nishijima, Masahiko Nishimura, Morio Kazama, Keiko Takeshita, Mirai Shida, Jun Kunimura, Shinobu Otake, and Nomura Mansai."
-    },
-    {
-      "source": "communication_and_humanitie",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2026 the Studio Ghibli was awarded the Princess of Asturias Award in the category of \"Communication and Humanities\"."
-    },
-    {
-      "source": "communication_and_humanitie",
-      "target": "the_boy_and_the_heron",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2026 the Studio Ghibli was awarded the Princess of Asturias Award in the category of \"Communication and Humanities\"."
-    },
-    {
-      "source": "communication_and_humanitie",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "After her parents are turned into pigs by the witch Yubaba, Chihiro takes a job working in Yubaba's bathhouse to find a way to free herself and her parents and return to the human world."
-    },
-    {
-      "source": "my_neighbor_totoro",
-      "target": "the_agency_for_cultural_affair",
-      "predicate": "RELATED_TO",
-      "sentence": "Totoro also serves as the mascot for Studio Ghibli and is recognized as one of the most popular characters in Japanese animation."
-    },
-    {
-      "source": "my_neighbor_totoro",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "Their mascot and most recognizable character is Totoro from the 1988 film My Neighbor Totoro, a giant spirit inspired by raccoon dogs (tanuki) and cats (neko)."
-    },
-    {
-      "source": "between_2018_and_2025",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Following a distribution deal struck between Tokuma Shoten and Walt Disney Studios, it was the first of Studio Ghibli's films to be released internationally and was given to Miramax Films to be dubbed into English and distributed in North America."
-    },
-    {
-      "source": "heidi_girl_of_the_alp",
-      "target": "japan",
-      "predicate": "RELATED_TO",
-      "sentence": "It follows a young girl named  Chihiro \"Sen\" Ogino, who moves to a new neighborhood and inadvertently enters the world of kami (spirits of Japanese Shinto folklore)."
-    },
-    {
-      "source": "japan",
-      "target": "july_29_1989",
-      "predicate": "RELATED_TO",
-      "sentence": "Released on 20 July 2013 in Japan, The Wind Rises was the highest-grossing Japanese film of 2013."
-    },
-    {
-      "source": "july_29_1989",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "Released on 20 July 2013 in Japan, The Wind Rises was the highest-grossing Japanese film of 2013."
-    },
-    {
-      "source": "july_29_1989",
-      "target": "spirited_away",
-      "predicate": "RELATED_TO",
-      "sentence": "Released on 20 July 2013 in Japan, The Wind Rises was the highest-grossing Japanese film of 2013."
-    },
-    {
-      "source": "between_2018_and_2025",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "Following a distribution deal struck between Tokuma Shoten and Walt Disney Studios, it was the first of Studio Ghibli's films to be released internationally and was given to Miramax Films to be dubbed into English and distributed in North America."
-    },
-    {
-      "source": "disney",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "Pixar animator John Lasseter, a fan and friend of Miyazaki, convinced Walt Disney Studios  to buy the film's North American distribution rights, and served as executive producer of its English-dubbed version."
-    },
-    {
-      "source": "disney",
-      "target": "studio_ghibli",
-      "predicate": "RELATED_TO",
-      "sentence": "Pixar animator John Lasseter, a fan and friend of Miyazaki, convinced Walt Disney Studios  to buy the film's North American distribution rights, and served as executive producer of its English-dubbed version."
-    },
-    {
-      "source": "disney",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Pixar animator John Lasseter, a fan and friend of Miyazaki, convinced Walt Disney Studios  to buy the film's North American distribution rights, and served as executive producer of its English-dubbed version."
-    },
-    {
-      "source": "disney",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "Pixar animator John Lasseter, a fan and friend of Miyazaki, convinced Walt Disney Studios  to buy the film's North American distribution rights, and served as executive producer of its English-dubbed version."
-    },
-    {
-      "source": "disney",
-      "target": "walt_disney_studio",
-      "predicate": "RELATED_TO",
-      "sentence": "Pixar animator John Lasseter, a fan and friend of Miyazaki, convinced Walt Disney Studios  to buy the film's North American distribution rights, and served as executive producer of its English-dubbed version."
-    },
-    {
-      "source": "kobe",
-      "target": "tokuma_shoten",
-      "predicate": "RELATED_TO",
-      "sentence": "Miyazaki wrote the screenplay after he decided the film would be based on the ten-year-old daughter of his friend Seiji Okuda, the film's associate producer, who came to visit his house each summer."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "tokuma_shoten",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "walt_disney_studio",
-      "predicate": "RELATED_TO",
-      "sentence": "Pixar animator John Lasseter, a fan and friend of Miyazaki, convinced Walt Disney Studios  to buy the film's North American distribution rights, and served as executive producer of its English-dubbed version."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "walt_disney_studio",
-      "predicate": "RELATED_TO",
-      "sentence": "Following a distribution deal struck between Tokuma Shoten and Walt Disney Studios, it was the first of Studio Ghibli's films to be released internationally and was given to Miramax Films to be dubbed into English and distributed in North America."
-    },
-    {
-      "source": "studio_ghibli",
-      "target": "tokuma_shoten",
-      "predicate": "RELATED_TO",
-      "sentence": "Four of the studio's films are among the ten highest-grossing Japanese feature films; Spirited Away is fourth, grossing ¥31.68 billion in Japan and over US$380 million worldwide."
-    },
-    {
-      "source": "studio_ghibli",
-      "target": "walt_disney_studio",
-      "predicate": "RELATED_TO",
-      "sentence": "Pixar animator John Lasseter, a fan and friend of Miyazaki, convinced Walt Disney Studios  to buy the film's North American distribution rights, and served as executive producer of its English-dubbed version."
-    },
-    {
-      "source": "the_boy_and_the_heron",
-      "target": "walt_disney_studio",
-      "predicate": "RELATED_TO",
-      "sentence": "Pixar animator John Lasseter, a fan and friend of Miyazaki, convinced Walt Disney Studios  to buy the film's North American distribution rights, and served as executive producer of its English-dubbed version."
-    },
-    {
-      "source": "the_mainichi_film_award",
-      "target": "tokuma_shoten",
-      "predicate": "RELATED_TO",
-      "sentence": "Four of the studio's films are among the ten highest-grossing Japanese feature films; Spirited Away is fourth, grossing ¥31.68 billion in Japan and over US$380 million worldwide."
-    },
-    {
-      "source": "the_mainichi_film_award",
-      "target": "walt_disney_studio",
-      "predicate": "RELATED_TO",
-      "sentence": "Pixar animator John Lasseter, a fan and friend of Miyazaki, convinced Walt Disney Studios  to buy the film's North American distribution rights, and served as executive producer of its English-dubbed version."
-    },
-    {
-      "source": "toshio_suzuki",
-      "target": "walt_disney_studio",
-      "predicate": "RELATED_TO",
-      "sentence": "Pixar animator John Lasseter, a fan and friend of Miyazaki, convinced Walt Disney Studios  to buy the film's North American distribution rights, and served as executive producer of its English-dubbed version."
-    },
-    {
-      "source": "buena_vista_home_entertainment",
-      "target": "hakuhodo_dy_media_partner",
-      "predicate": "RELATED_TO",
-      "sentence": "As of 2026, the film has grossed US$231.3 million through various theatrical and home media releases."
-    },
-    {
-      "source": "hakuhodo_dy_media_partner",
-      "target": "spirited_away",
-      "predicate": "RELATED_TO",
-      "sentence": "It has a strong presence in the animation industry and has expanded its portfolio to include various media such as short subjects, television commercials and two television films."
-    },
-    {
       "source": "hayao_miyazaki",
       "target": "tokuma_shoten",
       "predicate": "RELATED_TO",
       "sentence": "Suzuki began his career at Tokuma Shoten, working as a magazine editor and covering manga and animation, before becoming editor of Animage, where he established professional relationships with Hayao Miyazaki and Isao Takahata."
     },
     {
-      "source": "diana_wynne_jone",
+      "source": "disney",
       "target": "studio_ghibli",
       "predicate": "RELATED_TO",
-      "sentence": "He is a co-founder and the current chairman of Studio Ghibli, one of Japan's most prominent animation studios."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "the_golden_globe_award_for_best_foreign_language_film",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "spirited_away",
-      "target": "the_golden_globe_award_for_best_foreign_language_film",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "the_agency_for_cultural_affair",
-      "target": "the_golden_globe_award_for_best_foreign_language_film",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "the_boy_and_the_heron",
-      "target": "the_golden_globe_award_for_best_foreign_language_film",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "the_golden_globe_award_for_best_foreign_language_film",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "the_golden_globe_award_for_best_foreign_language_film",
-      "target": "toshio_suzuki",
-      "predicate": "RELATED_TO",
-      "sentence": "Spirited Away was a co-recipient of the Golden Bear at the 2002 Berlin International Film Festival and became the first hand-drawn, non-English-language animated film to win the Academy Award for Best Animated Feature at the 75th Academy Awards."
-    },
-    {
-      "source": "spirited_away",
-      "target": "walt_disney_studio",
-      "predicate": "RELATED_TO",
       "sentence": "Pixar animator John Lasseter, a fan and friend of Miyazaki, convinced Walt Disney Studios  to buy the film's North American distribution rights, and served as executive producer of its English-dubbed version."
-    },
-    {
-      "source": "ponyo",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "As they bond with each other, Ponyo desires to become a human girl, against the devastating circumstances brought about by her acquisition and use of magic."
-    },
-    {
-      "source": "communication_and_humanitie",
-      "target": "princess_mononoke",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2026 the Studio Ghibli was awarded the Princess of Asturias Award in the category of \"Communication and Humanities\"."
-    },
-    {
-      "source": "communication_and_humanitie",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "Their mascot and most recognizable character is Totoro from the 1988 film My Neighbor Totoro, a giant spirit inspired by raccoon dogs (tanuki) and cats (neko)."
-    },
-    {
-      "source": "communication_and_humanitie",
-      "target": "visby",
-      "predicate": "RELATED_TO",
-      "sentence": "Their mascot and most recognizable character is Totoro from the 1988 film My Neighbor Totoro, a giant spirit inspired by raccoon dogs (tanuki) and cats (neko)."
-    },
-    {
-      "source": "july_29_1989",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "Released on 20 July 2013 in Japan, The Wind Rises was the highest-grossing Japanese film of 2013."
-    },
-    {
-      "source": "japan",
-      "target": "the_following_three_decade",
-      "predicate": "RELATED_TO",
-      "sentence": "Studio Ghibli's major awards across  organizations include two Academy Awards for Best Animated Feature, one Golden Globe Award for Best Animated Feature Film, one BAFTA Award for Best Animated Film, one Golden Bear, three Animage Grand Prix awards and six Japan Academy Prizes."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "tsunehiko_kamij",
-      "predicate": "RELATED_TO",
-      "sentence": "It follows a young girl named  Chihiro \"Sen\" Ogino, who moves to a new neighborhood and inadvertently enters the world of kami (spirits of Japanese Shinto folklore)."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "north_america",
-      "predicate": "RELATED_TO",
-      "sentence": "Pixar animator John Lasseter, a fan and friend of Miyazaki, convinced Walt Disney Studios  to buy the film's North American distribution rights, and served as executive producer of its English-dubbed version."
-    },
-    {
-      "source": "communication_and_humanitie",
-      "target": "spirited_away",
-      "predicate": "RELATED_TO",
-      "sentence": "In 2026 the Studio Ghibli was awarded the Princess of Asturias Award in the category of \"Communication and Humanities\"."
-    },
-    {
-      "source": "the_academy_award_for_best_animated_feature",
-      "target": "the_golden_bear",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "the_agency_for_cultural_affair",
-      "target": "the_golden_bear",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "the_boy_and_the_heron",
-      "target": "the_golden_bear",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "the_fuji_nobur_award",
-      "target": "the_golden_bear",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
-    },
-    {
-      "source": "the_golden_bear",
-      "target": "the_mainichi_film_award",
-      "predicate": "RELATED_TO",
-      "sentence": "The film was nominated for several awards, including the Academy Award for Best Animated Feature, the Golden Globe Award for Best Foreign Language Film, and the Japan Academy Prize for Animation of the Year, winning the latter."
     },
     {
       "source": "studio_ghibli",
-      "target": "the_fuji_nobur_award",
+      "target": "tokuma_shoten",
       "predicate": "RELATED_TO",
-      "sentence": "In 2026 the Studio Ghibli was awarded the Princess of Asturias Award in the category of \"Communication and Humanities\"."
-    },
-    {
-      "source": "my_neighbor_totoro",
-      "target": "spirited_away",
-      "predicate": "RELATED_TO",
-      "sentence": "Suzuki has served as producer or co-producer on numerous Ghibli films, including Kiki’s Delivery Service, Only Yesterday, Porco Rosso, Princess Mononoke, Spirited Away, Howl’s Moving Castle, Earwig and the Witch, and The Boy and the Heron."
-    },
-    {
-      "source": "jiro_horikoshi",
-      "target": "nausica_of_the_valley_of_the_wind_film",
-      "predicate": "RELATED_TO",
-      "sentence": "The Wind Has Risen by Tatsuo Hori."
+      "sentence": "Four of the studio's films are among the ten highest-grossing Japanese feature films; Spirited Away is fourth, grossing ¥31.68 billion in Japan and over US$380 million worldwide."
     }
   ]
 }
