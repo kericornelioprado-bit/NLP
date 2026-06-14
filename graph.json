@@ -98,28 +98,10 @@
       "mentions": 2
     },
     {
-      "id": "only_yesterday",
-      "label": "Only Yesterday",
-      "class": "Film",
-      "mentions": 2
-    },
-    {
-      "id": "pom_poko",
-      "label": "Pom Poko",
-      "class": "Film",
-      "mentions": 1
-    },
-    {
       "id": "ponyo",
       "label": "Ponyo",
       "class": "Film",
       "mentions": 5
-    },
-    {
-      "id": "porco_rosso",
-      "label": "Porco Rosso",
-      "class": "Film",
-      "mentions": 2
     },
     {
       "id": "princess_mononoke",
@@ -158,18 +140,6 @@
       "mentions": 1
     },
     {
-      "id": "the_castle_of_cagliostro",
-      "label": "The Castle of Cagliostro",
-      "class": "Film",
-      "mentions": 1
-    },
-    {
-      "id": "the_tale_of_the_princess_kaguya",
-      "label": "The Tale of the Princess Kaguya",
-      "class": "Film",
-      "mentions": 1
-    },
-    {
       "id": "the_united_states",
       "label": "United States",
       "class": "Location",
@@ -192,12 +162,6 @@
       "label": "Tokuma Shoten",
       "class": "Organization",
       "mentions": 6
-    },
-    {
-      "id": "tokyo",
-      "label": "Tokyo",
-      "class": "Location",
-      "mentions": 3
     },
     {
       "id": "tokyo_movie_shinsha",
@@ -236,12 +200,6 @@
       "target": "castle_in_the_sky",
       "predicate": "PRODUCED",
       "sentence": "It was produced by Isao Takahata, animated by Studio Ghibli, and distributed by the Toei Company."
-    },
-    {
-      "source": "castle_in_the_sky",
-      "target": "kiki_s_delivery_service",
-      "predicate": "WORKED_ON",
-      "sentence": "The film stars the voices of Mayumi Tanaka, Keiko Yokozawa, Kotoe Hatsui, and Minori Terada."
     },
     {
       "source": "hayao_miyazaki",
@@ -284,12 +242,6 @@
       "target": "grave_of_the_fireflies",
       "predicate": "DIRECTED",
       "sentence": "Grave of the Fireflies is a 1988 Japanese animated war film written and directed by Isao Takahata."
-    },
-    {
-      "source": "grave_of_the_fireflies",
-      "target": "kiki_s_delivery_service",
-      "predicate": "WORKED_ON",
-      "sentence": "It stars the voices of Tsutomu Tatsumi, Ayano Shiraishi, Yoshiko Shinohara, and Akemi Yamaguchi."
     },
     {
       "source": "studio_ghibli",
@@ -350,12 +302,6 @@
       "target": "howl_s_moving_castle_film",
       "predicate": "PRODUCED",
       "sentence": "The film was produced by Toshio Suzuki, animated by Studio Ghibli, and distributed by Toho."
-    },
-    {
-      "source": "howl_s_moving_castle_film",
-      "target": "kiki_s_delivery_service",
-      "predicate": "WORKED_ON",
-      "sentence": "It stars the voices of Chieko Baisho, Takuya Kimura, and Akihiro Miwa."
     },
     {
       "source": "howl_s_moving_castle_film",
@@ -473,12 +419,6 @@
     },
     {
       "source": "my_neighbor_totoro",
-      "target": "kiki_s_delivery_service",
-      "predicate": "WORKED_ON",
-      "sentence": "It stars the voices of Noriko Hidaka, Chika Sakamoto and Hitoshi Takagi, and focuses on two young sisters who, after moving with their father to the countryside, experience interactions with friendly wood spirits in postwar Japan."
-    },
-    {
-      "source": "my_neighbor_totoro",
       "target": "studio_ghibli",
       "predicate": "WORKED_ON",
       "sentence": "Totoro also serves as the mascot for Studio Ghibli and is recognized as one of the most popular characters in Japanese animation."
@@ -506,12 +446,6 @@
       "target": "hayao_miyazaki",
       "predicate": "COMPOSED",
       "sentence": "Joe Hisaishi, in his first collaboration with Miyazaki, composed the score."
-    },
-    {
-      "source": "nausica_of_the_valley_of_the_wind_film",
-      "target": "kiki_s_delivery_service",
-      "predicate": "WORKED_ON",
-      "sentence": "The film stars the voices of Sumi Shimamoto, Gorō Naya, Yōji Matsuda, Yoshiko Sakakibara, and Iemasa Kayumi."
     },
     {
       "source": "hayao_miyazaki",
@@ -560,12 +494,6 @@
       "target": "princess_mononoke",
       "predicate": "DIRECTED",
       "sentence": "Princess Mononoke is a 1997 Japanese animated historical fantasy film written and directed by Hayao Miyazaki."
-    },
-    {
-      "source": "princess_mononoke",
-      "target": "kiki_s_delivery_service",
-      "predicate": "WORKED_ON",
-      "sentence": "Produced by Toshio Suzuki, animated by Studio Ghibli, and distributed by Toho, it stars the voices of Yōji Matsuda, Yuriko Ishida, Yūko Tanaka, Kaoru Kobayashi, Masahiko Nishimura, Tsunehiko Kamijō, Akihiro Miwa, Mitsuko Mori, and Hisaya Morishige."
     },
     {
       "source": "hayao_miyazaki",
@@ -626,12 +554,6 @@
       "target": "the_wind_rises",
       "predicate": "RELATED_TO",
       "sentence": "'The Wind Has Risen') is a 2013 Japanese animated historical drama film written and directed by Hayao Miyazaki based on his 2009 manga of the same name."
-    },
-    {
-      "source": "the_wind_rises",
-      "target": "kiki_s_delivery_service",
-      "predicate": "WORKED_ON",
-      "sentence": "Produced by Studio Ghibli and distributed by Toho, the film stars the voices of Hideaki Anno, Miori Takimoto, Hidetoshi Nishijima, Masahiko Nishimura, Morio Kazama, Keiko Takeshita, Mirai Shida, Jun Kunimura, Shinobu Otake, and Nomura Mansai."
     },
     {
       "source": "hayao_miyazaki",

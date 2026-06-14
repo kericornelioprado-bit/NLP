@@ -15,9 +15,9 @@ spaCy's `en_core_web_lg` model runs Named Entity Recognition on each article. sp
 | spaCy Label | Ontology Class | Count |
 |---|---|---|
 | PERSON | Person | 5 |
-| WORK_OF_ART | Film | 16 |
+| WORK_OF_ART | Film | 11 |
 | ORG | Organization | 9 |
-| GPE, LOC, FAC | Location | 3 |
+| GPE, LOC, FAC | Location | 2 |
 | DATE | Date | 0* |
 
 *Date entities are extracted by spaCy NER but filtered from the final graph: standalone years (1988, 1989, etc.) add hairball density without contributing meaningful semantic relations. The ontology still defines Date as a class; it simply has no instances in this graph.
@@ -60,18 +60,18 @@ The normalization algorithm:
 
 | Predicate | Count |
 |---|---|
-| DIRECTED | 11 |
-| PRODUCED | 2 |
-| COMPOSED | 1 |
+| DIRECTED | 12 |
+| PRODUCED | 10 |
+| COMPOSED | 3 |
 | WROTE | 8 |
-| FOUNDED | 1 |
-| RELEASED_IN | 1 |
-| WORKED_ON | 4 |
-| RELATED_TO | 30 |
+| FOUNDED | 3 |
+| RELEASED_IN | 3 |
+| WORKED_ON | 16 |
+| RELATED_TO | 26 |
 
-28 triples (48%) were assigned a specific predicate via dependency parsing; the remaining 30 (52%) are `RELATED_TO` co-occurrence pairs. Entities must co-occur in ≥4 sentences to generate a `RELATED_TO` link. The graph has 33 nodes and 58 links total — a sparse but clean representation that avoids the hairball problem anticipated in the project plan.
+55 triples (68%) were assigned a specific predicate via dependency parsing; the remaining 26 (32%) are `RELATED_TO` co-occurrence pairs. Entities must co-occur in ≥4 sentences to generate a `RELATED_TO` link. The graph has 27 nodes and 81 links total — a sparse but clean representation that avoids the hairball problem anticipated in the project plan.
 
-The 48% of typed relations (DIRECTED, WROTE, PRODUCED, etc.) were extracted through genuine dependency parsing — the pipeline inspects verb-subject-object structures and normalizes the verb lemma, not through hand-written rules or LLM prompting. The 52% `RELATED_TO` links represent statistical co-occurrence as a complementary signal: when two entities appear together in ≥4 sentences across the corpus without a clearly verbalized relation, they are still connected as semantically associated. This is not a failure of extraction but a deliberate design choice — encyclopedic text contains far more descriptive co-occurrence than explicit predication, and the `RELATED_TO` catch-all captures that structure transparently rather than forcing weak verb mappings.
+The 68% of typed relations (DIRECTED, WROTE, PRODUCED, etc.) were extracted through genuine dependency parsing — the pipeline inspects verb-subject-object structures and normalizes the verb lemma, not through hand-written rules or LLM prompting. The 32% `RELATED_TO` links represent statistical co-occurrence as a complementary signal: when two entities appear together in ≥4 sentences across the corpus without a clearly verbalized relation, they are still connected as semantically associated. This is not a failure of extraction but a deliberate design choice — encyclopedic text contains far more descriptive co-occurrence than explicit predication, and the `RELATED_TO` catch-all captures that structure transparently rather than forcing weak verb mappings.
 
 ### 3. Output: `graph.json`
 

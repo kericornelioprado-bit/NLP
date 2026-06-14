@@ -550,8 +550,22 @@ def build_graph():
         key = (t["source"], t["target"], t["predicate"])
         if key in link_set:
             continue
+
+        src_info = canonical.get(t["source"], {})
+        tgt_info = canonical.get(t["target"], {})
+        if (src_info.get("class") == "Film" and tgt_info.get("class") == "Film"
+                and t["predicate"] == "WORKED_ON"):
+            continue
+
         link_set.add(key)
         links.append(t)
+
+    linked_ids = set()
+    for l in links:
+        linked_ids.add(l["source"])
+        linked_ids.add(l["target"])
+    nodes = [n for n in nodes if n["id"] in linked_ids]
+    node_ids = set(linked_ids)
 
     graph = {
         "ontology": {"classes": CLASSES, "predicates": PREDICATES},
